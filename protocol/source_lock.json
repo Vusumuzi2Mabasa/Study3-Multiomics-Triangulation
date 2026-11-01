@@ -1,0 +1,8 @@
+{
+  "protocol/design.json": "7e1cacb3a04f0c84ae94efeefc45af949cec326260f56e7251b3bedc52e09427",
+  "src/simulation.py": "d4dee4368d6835fb37c11a1fe1cfb2e8e7b42b75cd9165869f650832e1a7fad3",
+  "src/statistics.py": "ad60a09a35a524ca4d5ac02f8369708d56d470771aac417ddfccc31409061d8a",
+  "src/run.py": "fca3db0c1402765433dd47825f4d80ef04d93690beb4903e4efa6b0eaee2c337",
+  "src/mofa_engine.py": "12c3b40e47bec6d7f1f9e1880b634e630ff9e8607efc78e7332bbe7ccf830456",
+  "src/diablo.R": "d81070539ef8c86493e79bf38372bbb5e823e520416a04f875eb5f9fd1a85807"
+}

@@ -1,0 +1,7 @@
+{
+  "reason": "Only 52 of 200 final MOFA fits met the medium ELBO stopping criterion at the initial 150-iteration cap (7/100 at N240, 45/100 at N480). Extend the cap for every cohort, including masked tuning candidates, starts, final fits and fixed-fixture bootstrap fits. Retain every original result. No effect size, seed, threshold, factor grid, start or DIABLO/eQTL setting changes.",
+  "original_cap": 150,
+  "new_cap": 1000,
+  "primary_reporting": "Use the uniform extended-budget MOFA results and retain original-budget sensitivity results. Report all remaining convergence failures.",
+  "source_sha256": "a6d55aaee94ea5fa5d6a7193637e7b243df138e914f571d17ee12a6f5aac059e"
+}

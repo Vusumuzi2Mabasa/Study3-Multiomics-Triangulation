@@ -1,0 +1,5 @@
+{
+  "reason": "Cross-language checks found ARD-pruned factor scores around 1e-130. A generic standardizer can amplify these numerical remnants into predictors. Uniformly zero scores with discovery SD below 1e-8 before factor associations and downstream classification; use discovery alone to define active factors. Preserve all raw fits and predictions.",
+  "threshold": 1e-08,
+  "source_sha256": "5e934c7c599cd116967606afac9307cd5a84da26aa2dd413b07b274e7463fd0b"
+}

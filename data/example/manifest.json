@@ -1,0 +1,10 @@
+{
+  "disclosure": "All measurements, participants, coordinates, genes and modules are synthetic.",
+  "scenario": "convergent",
+  "seed": 2115480000,
+  "replicate": 0,
+  "status": "passed",
+  "n": 480,
+  "TNBC": 171,
+  "minimum_MAF": 0.153125
+}

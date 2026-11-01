@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "pages": 12,
+  "author": "Vusumuzi Mabasa",
+  "figures": 8,
+  "tables": 5,
+  "editable_equations": 10,
+  "readme_sha256": "9a7f99bcb53f4bba852e3ba07bdfc52616514b018da0db2c7f7b12b4f27ebcb0",
+  "word_sha256": "8f5c933d1b6aa22853fe8ba6f0484bdd0510c40d2395fce063d17b9ea7b533bb",
+  "page_sha256": {
+    "page-1.png": "3195b751460279023bdc9a17c5e743601a0543dfc15fa727be485784bb84dc56",
+    "page-2.png": "90dddce15d492c2bc057007b639a494d9a5ea80edf487a869888b156addf24b5",
+    "page-3.png": "79a8c99776cf4f8c736bb4c5f88e65ffaaadbd9ba1b7b0e5034af673201eae55",
+    "page-4.png": "36679c9e43a328da6cde813dbf4fb7602497b246da53454537bd71ac36e1d6ef",
+    "page-5.png": "a4c9d3be20cd1f52133a4880ebbb92a6b56f819b9b63027abd2ce6381a9e40c6",
+    "page-6.png": "665eb34a0fc8cfe76a4e69b4313a9b4b2d7669794d9d7e84ca4e81beddd4d5b7",
+    "page-7.png": "890a24a4235feb4930343271bc779eedb39a1f3731da41e1076d31b577366b67",
+    "page-8.png": "e3f3d068ed5acb6d9f9fa8edbd049b8de3240b68f241ccbc7deb5d902b20a7d5",
+    "page-9.png": "d05092d429502c77db26d2db8a7af425ce3639d07d204aceb97ab231c96bb655",
+    "page-10.png": "e9b091099e672e13e77156dac3538c4ba640d48fe1cf4cb6355ced5b0b6725fa",
+    "page-11.png": "6fc0300861ff3c86eb8fa32cdaf603b7c6b364026433a421f00188276508c68b",
+    "page-12.png": "fcbae3c05bf280390da3d9cb486b2d282bfa272fb1084ea8a27171b2354910eb"
+  },
+  "visual_review": "All twelve Word-rendered page PNGs and all eight standalone figures inspected. Five tables and ten editable equations readable. Interpretation precedes figures. Simulated data and computational amendments explicit; no clipping, overlap or orphaned headings.",
+  "renderer": "Native Microsoft Word read-only PDF export; packaged render_docx.py page rasterisation adapter because LibreOffice is unavailable on this host."
+}

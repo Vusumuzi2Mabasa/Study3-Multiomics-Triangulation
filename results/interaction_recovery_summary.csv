@@ -1,0 +1,61 @@
+scenario,n,method,metric,replicates,mean,mcse,lower,upper
+abundance_only,240,Ordinary F,selected,20,0.0,0.0,0.0,0.0
+abundance_only,240,Restricted wild F,selected,20,0.0,0.0,0.0,0.0
+abundance_only,480,Ordinary F,selected,20,0.1,0.06882472016116853,-0.04405179483524621,0.24405179483524622
+abundance_only,480,Restricted wild F,selected,20,0.1,0.06882472016116853,-0.04405179483524621,0.24405179483524622
+convergent,240,Ordinary F,selected,20,0.0,0.0,0.0,0.0
+convergent,240,Restricted wild F,selected,20,0.0,0.0,0.0,0.0
+convergent,480,Ordinary F,selected,20,0.0,0.0,0.0,0.0
+convergent,480,Restricted wild F,selected,20,0.05,0.04999999999999999,-0.05465120272041542,0.15465120272041544
+interaction_only,240,Ordinary F,selected,20,3.4,0.39336604086431143,2.5766754142836343,4.223324585716366
+interaction_only,240,Restricted wild F,selected,20,3.05,0.366167922364072,2.2836017305392833,3.8163982694607164
+interaction_only,480,Ordinary F,selected,20,5.4,0.2339590607462407,4.9103180581113435,5.889681941888657
+interaction_only,480,Restricted wild F,selected,20,5.4,0.2339590607462407,4.9103180581113435,5.889681941888657
+null,240,Ordinary F,selected,20,0.0,0.0,0.0,0.0
+null,240,Restricted wild F,selected,20,0.0,0.0,0.0,0.0
+null,480,Ordinary F,selected,20,0.05,0.04999999999999999,-0.05465120272041542,0.15465120272041544
+null,480,Restricted wild F,selected,20,0.1,0.06882472016116853,-0.04405179483524621,0.24405179483524622
+regulation_only,240,Ordinary F,selected,20,0.1,0.06882472016116853,-0.04405179483524621,0.24405179483524622
+regulation_only,240,Restricted wild F,selected,20,0.0,0.0,0.0,0.0
+regulation_only,480,Ordinary F,selected,20,0.05,0.04999999999999999,-0.05465120272041542,0.15465120272041544
+regulation_only,480,Restricted wild F,selected,20,0.1,0.06882472016116853,-0.04405179483524621,0.24405179483524622
+abundance_only,240,Ordinary F,FDP,20,0.0,0.0,0.0,0.0
+abundance_only,240,Restricted wild F,FDP,20,0.0,0.0,0.0,0.0
+abundance_only,480,Ordinary F,FDP,20,0.1,0.06882472016116853,-0.04405179483524621,0.24405179483524622
+abundance_only,480,Restricted wild F,FDP,20,0.1,0.06882472016116853,-0.04405179483524621,0.24405179483524622
+convergent,240,Ordinary F,FDP,20,0.0,0.0,0.0,0.0
+convergent,240,Restricted wild F,FDP,20,0.0,0.0,0.0,0.0
+convergent,480,Ordinary F,FDP,20,0.0,0.0,0.0,0.0
+convergent,480,Restricted wild F,FDP,20,0.05,0.04999999999999999,-0.05465120272041542,0.15465120272041544
+interaction_only,240,Ordinary F,FDP,20,0.07142857142857142,0.029617443887954616,0.009438548940994072,0.13341859391614877
+interaction_only,240,Restricted wild F,FDP,20,0.03142857142857143,0.017938910537660734,-0.006117999836631173,0.06897514269377403
+interaction_only,480,Ordinary F,FDP,20,0.0325,0.017871986312014736,-0.004906497251102877,0.06990649725110287
+interaction_only,480,Restricted wild F,FDP,20,0.039761904761904755,0.016008393042713596,0.006255953051082584,0.07326785647272693
+null,240,Ordinary F,FDP,20,0.0,0.0,0.0,0.0
+null,240,Restricted wild F,FDP,20,0.0,0.0,0.0,0.0
+null,480,Ordinary F,FDP,20,0.05,0.04999999999999999,-0.05465120272041542,0.15465120272041544
+null,480,Restricted wild F,FDP,20,0.1,0.06882472016116853,-0.04405179483524621,0.24405179483524622
+regulation_only,240,Ordinary F,FDP,20,0.1,0.06882472016116853,-0.04405179483524621,0.24405179483524622
+regulation_only,240,Restricted wild F,FDP,20,0.0,0.0,0.0,0.0
+regulation_only,480,Ordinary F,FDP,20,0.05,0.04999999999999999,-0.05465120272041542,0.15465120272041544
+regulation_only,480,Restricted wild F,FDP,20,0.1,0.06882472016116853,-0.04405179483524621,0.24405179483524622
+abundance_only,240,Ordinary F,sensitivity,0,,,,
+abundance_only,240,Restricted wild F,sensitivity,0,,,,
+abundance_only,480,Ordinary F,sensitivity,0,,,,
+abundance_only,480,Restricted wild F,sensitivity,0,,,,
+convergent,240,Ordinary F,sensitivity,0,,,,
+convergent,240,Restricted wild F,sensitivity,0,,,,
+convergent,480,Ordinary F,sensitivity,0,,,,
+convergent,480,Restricted wild F,sensitivity,0,,,,
+interaction_only,240,Ordinary F,sensitivity,20,0.5083333333333333,0.05197137088641077,0.3995560039274999,0.6171106627391667
+interaction_only,240,Restricted wild F,sensitivity,20,0.475,0.045683567112185616,0.37938319514301916,0.5706168048569807
+interaction_only,480,Ordinary F,sensitivity,20,0.8666666666666668,0.03545856654632937,0.7924510339503616,0.940882299382972
+interaction_only,480,Restricted wild F,sensitivity,20,0.8583333333333334,0.0326128270965286,0.7900739017380399,0.9265927649286269
+null,240,Ordinary F,sensitivity,0,,,,
+null,240,Restricted wild F,sensitivity,0,,,,
+null,480,Ordinary F,sensitivity,0,,,,
+null,480,Restricted wild F,sensitivity,0,,,,
+regulation_only,240,Ordinary F,sensitivity,0,,,,
+regulation_only,240,Restricted wild F,sensitivity,0,,,,
+regulation_only,480,Ordinary F,sensitivity,0,,,,
+regulation_only,480,Restricted wild F,sensitivity,0,,,,

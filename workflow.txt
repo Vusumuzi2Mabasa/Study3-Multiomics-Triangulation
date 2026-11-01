@@ -1,0 +1,133 @@
+STUDY 3 GENOTYPE RNA TRIANGULATION
+Author: Vusumuzi Mabasa
+All participants, variants, genes, coordinates, LD and modules are synthetic.
+No proteins, actual patient data or real biological enrichment are included.
+
+OBJECTIVE
+Evaluate complementary MOFA+ discovery, DIABLO supervised signatures and regional
+cis-eQTL inference, then quantify convergence at gene, locus and synthetic-module
+levels. Agreement is not independent biological validation or causal evidence.
+
+DESIGN
+Five scenarios: null, regulation_only, abundance_only, convergent, interaction_only.
+Training N240/480, twenty pairs per cell, independent N360 test participants per pair.
+Total200 independent training/test pairs. Two implementation pilots excluded.
+Additional2000 eQTL calibration cohorts:500 per null/abundance-only and size.
+48 common variants in12 synthetic LD regions;24 RNA genes in4 synthetic modules.
+Primary/test/calibration cohort seeds are disjoint,2400 seeds in total.
+Full frozen settings and source hashes: protocol/design.json and source_lock.json.
+
+SOFTWARE
+Python scientific packages pinned in requirements.txt.
+R4.5.1, mixOmics6.33.0 and jsonlite2.0.0 were used locally.
+MOFA uses official mofapy2. DIABLO uses official mixOmics block.splsda.
+Quarto renders the shared research manuscript to Word with editable equations.
+No cluster or GPU is required; two CPU workers and small panels were used.
+
+LINUX OR WSL SETUP
+python -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements.txt
+export OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 MKL_NUM_THREADS=1
+
+R must already contain mixOmics and jsonlite; install through their official
+Bioconductor/CRAN sources if needed. Quarto and Rscript must be on PATH, or provide
+absolute paths to the reproduction wrapper. Software installation is not hidden
+inside an analysis stage.
+
+SCIENTIFIC EXECUTION ORDER
+python -m unittest discover -s tests -v
+python src/run.py --stage main --workers 2
+Rscript --vanilla src/diablo.R .
+python src/run.py --stage calibration --workers 2
+python src/refine_mofa.py
+python src/finalize.py
+python src/analysis.py
+python src/figures.py
+python src/export_example.py
+python src/verify.py --fixture-only
+Rscript --vanilla src/check_R.R .
+python src/verify.py
+python src/paper.py
+python src/build_word.py
+
+Fresh full run in a NEW directory:
+python src/reproduce.py --output /mnt/toshiba/new-triangulation-run --rscript /usr/bin/Rscript --quarto /usr/local/bin/quarto
+Choose the actual mounted Toshiba path. The wrapper refuses an existing output.
+Stages in the released tree resume existing records. Do not delete original results
+or change frozen seeds to improve outcomes. A methodological change needs a new bank
+or documented amendment. Reproduction does not automatically certify report layout.
+
+ANALYSIS DETAILS
+MOFA: unsupervised train-only adjustment/scaling;15% masked-entry factor-budget
+selection among4/8 factors; two distinct starts by ELBO; no subtype in factor fitting.
+Adjusted logistic factor tests use BH across the nominal factor budget. Top5 RNA
+loadings per significant discovery factor nominate genes. Independent factor tests
+and direction agreement are reported separately. Train-SD<1e-8 factors are zeroed.
+MOFA scores can feed a downstream classifier; DIABLO receives the molecular blocks
+directly and does not receive MOFA scores or eQTL-screened inputs.
+
+DIABLO: stratified threefold training validation of1/2 components and3/6 molecular
+features per component; clinical block retains6 observed inputs. Final weighted
+centroid classes are evaluated on independent participants. No artificial AUC or
+probability calibration is computed from DIABLO hard labels.
+
+eQTL: per gene, covariates+subtype+4local genotypes+4genotype-by-subtype interactions.
+Omnibus F tests8 local effects; interaction F tests4 interactions while retaining
+main effects. BH0.05 separately across24 genes per family. Restricted HC2 wild
+bootstrap uses999 shared participant-level Rademacher draws and plus-one P values.
+Ordinary-F results and bootstrap sensitivity results remain separately accessible.
+
+TRIANGULATION
+MOFA RNA nominations, DIABLO RNA selections and eQTL-associated genes are intersected.
+Locus mapping uses the two-gene local region. Module nominations require separate
+hypergeometric enrichment/BH across4 groups against the24-gene background. Gene and
+module overlap probabilities therefore have different nomination requirements.
+No independent biological P value is assigned to overlap from shared measurements.
+
+STABILITY
+Selection frequency across20 generated cohorts differs from within-cohort stability.
+Five conditional bootstrap fits in each fixed first-replicate fixture retain
+selected tuning parameters; MOFA bootstrap fits use one start. Absolute loading
+cosines use permutation/sign-invariant matching. Empty-union Jaccard is undefined.
+
+AMENDMENTS AND PRESERVATION
+Initial150-iteration MOFA fits are preserved in results/cohorts and results/models.
+Only52/200 final fits converged. Uniform1000-cap refits, including tuning/bootstrap
+fits, are in results/refined and refined_models;200/200 final fits converged.
+The convergence amendment changed no scenario, seed, effect, threshold or factor grid.
+Numerically dormant factors were handled in a separate documented finalisation
+amendment. Results/final and final_models are the reported primary MOFA results;
+original and extended raw fits remain released.
+The Toshiba drive disconnected after computations finished and before publication.
+After reconnection the full audit was repeated; no synthetic cohorts were discarded.
+The earlier Breast-Cancer-Genotype-RNA-eQTL project remains separate and unchanged.
+
+OUTPUTS
+data/cohorts/: all ordered training/test matrices consumed by Python and R.
+data/example/: labelled prespecified convergent N480 replicate0 and known truth.
+results/marker_selection.csv: all gene nominations, q values and truth flags.
+results/selection_frequency.csv: independent-cohort marker frequencies.
+results/factor_associations.csv: discovery/held-out factor tests and directions.
+results/interaction_recovery_summary.csv: interaction power and realised FDP.
+results/triangulation*.csv: probabilities, overlaps and objective-specific recovery.
+results/calibration_summary.csv: all500-cohort calibration estimates and intervals.
+results/bootstrap_stability.csv: conditional fixed-fixture bootstrap diagnostics.
+results/audit.json and R_validation.json: verification results.
+figures/: eight main PNG/SVG figures visible in README.
+report/manuscript.qmd and Study3_Triangulation_Report.docx: shared research report.
+protocol/: source locks and disclosed computational amendments.
+provenance/: parent-study linkage and inherited MOFA engine source.
+
+PUBLICATION VALIDATION
+Render the Word report to page PNGs; visually inspect every page and every figure.
+Record document QA, then generate checksums.sha256 over released files excluding
+the manifest itself, work/, caches and Word lock files.
+python src/audit_release.py
+git add .
+git commit -m "Publish complementary genotype RNA triangulation simulation"
+git push origin main
+
+PUBLIC REPOSITORY
+https://github.com/Vusumuzi2Mabasa/Study3-Multiomics-Triangulation
+Never upload credentials, private proposals, patient data or temporary environments.

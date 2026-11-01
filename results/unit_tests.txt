@@ -1,0 +1,11 @@
+test_bh (test_science.Science.test_bh) ... ok
+test_bootstrap_refits (test_science.Science.test_bootstrap_refits) ... ok
+test_logistic_gradient (test_science.Science.test_logistic_gradient) ... ok
+test_mapping (test_science.Science.test_mapping) ... ok
+test_seed_and_truth (test_science.Science.test_seed_and_truth) ... ok
+test_test_labels_do_not_affect_predictions (test_science.Science.test_test_labels_do_not_affect_predictions) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.871s
+
+OK

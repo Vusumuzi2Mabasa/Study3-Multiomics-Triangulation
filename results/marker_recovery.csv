@@ -1,0 +1,1201 @@
+scenario,n,replicate,method,selected,true_selected,false_selected,FDP,sensitivity
+abundance_only,240,0,MOFA,9,6,3,0.3333333333333333,1.0
+abundance_only,240,0,DIABLO,3,3,0,0.0,0.5
+abundance_only,240,0,eQTL,0,0,0,0.0,
+abundance_only,240,0,Wild eQTL,0,0,0,0.0,
+abundance_only,240,0,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+abundance_only,240,0,eQTL replicated,0,0,0,0.0,
+abundance_only,240,1,MOFA,10,5,5,0.5,0.8333333333333334
+abundance_only,240,1,DIABLO,6,6,0,0.0,1.0
+abundance_only,240,1,eQTL,0,0,0,0.0,
+abundance_only,240,1,Wild eQTL,0,0,0,0.0,
+abundance_only,240,1,MOFA confirmed,10,5,5,0.5,0.8333333333333334
+abundance_only,240,1,eQTL replicated,0,0,0,0.0,
+abundance_only,240,2,MOFA,10,5,5,0.5,0.8333333333333334
+abundance_only,240,2,DIABLO,3,3,0,0.0,0.5
+abundance_only,240,2,eQTL,0,0,0,0.0,
+abundance_only,240,2,Wild eQTL,0,0,0,0.0,
+abundance_only,240,2,MOFA confirmed,10,5,5,0.5,0.8333333333333334
+abundance_only,240,2,eQTL replicated,0,0,0,0.0,
+abundance_only,240,3,MOFA,9,4,5,0.5555555555555556,0.6666666666666666
+abundance_only,240,3,DIABLO,6,6,0,0.0,1.0
+abundance_only,240,3,eQTL,0,0,0,0.0,
+abundance_only,240,3,Wild eQTL,0,0,0,0.0,
+abundance_only,240,3,MOFA confirmed,9,4,5,0.5555555555555556,0.6666666666666666
+abundance_only,240,3,eQTL replicated,0,0,0,0.0,
+abundance_only,240,4,MOFA,5,5,0,0.0,0.8333333333333334
+abundance_only,240,4,DIABLO,6,6,0,0.0,1.0
+abundance_only,240,4,eQTL,0,0,0,0.0,
+abundance_only,240,4,Wild eQTL,0,0,0,0.0,
+abundance_only,240,4,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+abundance_only,240,4,eQTL replicated,0,0,0,0.0,
+abundance_only,240,5,MOFA,5,5,0,0.0,0.8333333333333334
+abundance_only,240,5,DIABLO,6,3,3,0.5,0.5
+abundance_only,240,5,eQTL,0,0,0,0.0,
+abundance_only,240,5,Wild eQTL,0,0,0,0.0,
+abundance_only,240,5,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+abundance_only,240,5,eQTL replicated,0,0,0,0.0,
+abundance_only,240,6,MOFA,5,5,0,0.0,0.8333333333333334
+abundance_only,240,6,DIABLO,3,3,0,0.0,0.5
+abundance_only,240,6,eQTL,0,0,0,0.0,
+abundance_only,240,6,Wild eQTL,0,0,0,0.0,
+abundance_only,240,6,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+abundance_only,240,6,eQTL replicated,0,0,0,0.0,
+abundance_only,240,7,MOFA,10,5,5,0.5,0.8333333333333334
+abundance_only,240,7,DIABLO,3,3,0,0.0,0.5
+abundance_only,240,7,eQTL,0,0,0,0.0,
+abundance_only,240,7,Wild eQTL,0,0,0,0.0,
+abundance_only,240,7,MOFA confirmed,10,5,5,0.5,0.8333333333333334
+abundance_only,240,7,eQTL replicated,0,0,0,0.0,
+abundance_only,240,8,MOFA,9,4,5,0.5555555555555556,0.6666666666666666
+abundance_only,240,8,DIABLO,6,6,0,0.0,1.0
+abundance_only,240,8,eQTL,0,0,0,0.0,
+abundance_only,240,8,Wild eQTL,0,0,0,0.0,
+abundance_only,240,8,MOFA confirmed,9,4,5,0.5555555555555556,0.6666666666666666
+abundance_only,240,8,eQTL replicated,0,0,0,0.0,
+abundance_only,240,9,MOFA,9,4,5,0.5555555555555556,0.6666666666666666
+abundance_only,240,9,DIABLO,3,3,0,0.0,0.5
+abundance_only,240,9,eQTL,0,0,0,0.0,
+abundance_only,240,9,Wild eQTL,0,0,0,0.0,
+abundance_only,240,9,MOFA confirmed,9,4,5,0.5555555555555556,0.6666666666666666
+abundance_only,240,9,eQTL replicated,0,0,0,0.0,
+abundance_only,240,10,MOFA,5,5,0,0.0,0.8333333333333334
+abundance_only,240,10,DIABLO,12,6,6,0.5,1.0
+abundance_only,240,10,eQTL,0,0,0,0.0,
+abundance_only,240,10,Wild eQTL,0,0,0,0.0,
+abundance_only,240,10,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+abundance_only,240,10,eQTL replicated,0,0,0,0.0,
+abundance_only,240,11,MOFA,5,5,0,0.0,0.8333333333333334
+abundance_only,240,11,DIABLO,6,6,0,0.0,1.0
+abundance_only,240,11,eQTL,0,0,0,0.0,
+abundance_only,240,11,Wild eQTL,0,0,0,0.0,
+abundance_only,240,11,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+abundance_only,240,11,eQTL replicated,0,0,0,0.0,
+abundance_only,240,12,MOFA,5,5,0,0.0,0.8333333333333334
+abundance_only,240,12,DIABLO,12,6,6,0.5,1.0
+abundance_only,240,12,eQTL,0,0,0,0.0,
+abundance_only,240,12,Wild eQTL,0,0,0,0.0,
+abundance_only,240,12,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+abundance_only,240,12,eQTL replicated,0,0,0,0.0,
+abundance_only,240,13,MOFA,8,4,4,0.5,0.6666666666666666
+abundance_only,240,13,DIABLO,3,3,0,0.0,0.5
+abundance_only,240,13,eQTL,0,0,0,0.0,
+abundance_only,240,13,Wild eQTL,0,0,0,0.0,
+abundance_only,240,13,MOFA confirmed,8,4,4,0.5,0.6666666666666666
+abundance_only,240,13,eQTL replicated,0,0,0,0.0,
+abundance_only,240,14,MOFA,5,5,0,0.0,0.8333333333333334
+abundance_only,240,14,DIABLO,6,3,3,0.5,0.5
+abundance_only,240,14,eQTL,0,0,0,0.0,
+abundance_only,240,14,Wild eQTL,0,0,0,0.0,
+abundance_only,240,14,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+abundance_only,240,14,eQTL replicated,0,0,0,0.0,
+abundance_only,240,15,MOFA,5,5,0,0.0,0.8333333333333334
+abundance_only,240,15,DIABLO,3,3,0,0.0,0.5
+abundance_only,240,15,eQTL,0,0,0,0.0,
+abundance_only,240,15,Wild eQTL,0,0,0,0.0,
+abundance_only,240,15,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+abundance_only,240,15,eQTL replicated,0,0,0,0.0,
+abundance_only,240,16,MOFA,5,5,0,0.0,0.8333333333333334
+abundance_only,240,16,DIABLO,6,6,0,0.0,1.0
+abundance_only,240,16,eQTL,0,0,0,0.0,
+abundance_only,240,16,Wild eQTL,0,0,0,0.0,
+abundance_only,240,16,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+abundance_only,240,16,eQTL replicated,0,0,0,0.0,
+abundance_only,240,17,MOFA,7,6,1,0.14285714285714285,1.0
+abundance_only,240,17,DIABLO,3,3,0,0.0,0.5
+abundance_only,240,17,eQTL,0,0,0,0.0,
+abundance_only,240,17,Wild eQTL,0,0,0,0.0,
+abundance_only,240,17,MOFA confirmed,7,6,1,0.14285714285714285,1.0
+abundance_only,240,17,eQTL replicated,0,0,0,0.0,
+abundance_only,240,18,MOFA,9,4,5,0.5555555555555556,0.6666666666666666
+abundance_only,240,18,DIABLO,3,3,0,0.0,0.5
+abundance_only,240,18,eQTL,0,0,0,0.0,
+abundance_only,240,18,Wild eQTL,0,0,0,0.0,
+abundance_only,240,18,MOFA confirmed,9,4,5,0.5555555555555556,0.6666666666666666
+abundance_only,240,18,eQTL replicated,0,0,0,0.0,
+abundance_only,240,19,MOFA,10,5,5,0.5,0.8333333333333334
+abundance_only,240,19,DIABLO,6,6,0,0.0,1.0
+abundance_only,240,19,eQTL,0,0,0,0.0,
+abundance_only,240,19,Wild eQTL,0,0,0,0.0,
+abundance_only,240,19,MOFA confirmed,10,5,5,0.5,0.8333333333333334
+abundance_only,240,19,eQTL replicated,0,0,0,0.0,
+abundance_only,480,0,MOFA,10,5,5,0.5,0.8333333333333334
+abundance_only,480,0,DIABLO,6,6,0,0.0,1.0
+abundance_only,480,0,eQTL,0,0,0,0.0,
+abundance_only,480,0,Wild eQTL,0,0,0,0.0,
+abundance_only,480,0,MOFA confirmed,10,5,5,0.5,0.8333333333333334
+abundance_only,480,0,eQTL replicated,0,0,0,0.0,
+abundance_only,480,1,MOFA,10,5,5,0.5,0.8333333333333334
+abundance_only,480,1,DIABLO,6,6,0,0.0,1.0
+abundance_only,480,1,eQTL,1,0,1,1.0,
+abundance_only,480,1,Wild eQTL,1,0,1,1.0,
+abundance_only,480,1,MOFA confirmed,10,5,5,0.5,0.8333333333333334
+abundance_only,480,1,eQTL replicated,0,0,0,0.0,
+abundance_only,480,2,MOFA,5,5,0,0.0,0.8333333333333334
+abundance_only,480,2,DIABLO,6,6,0,0.0,1.0
+abundance_only,480,2,eQTL,0,0,0,0.0,
+abundance_only,480,2,Wild eQTL,0,0,0,0.0,
+abundance_only,480,2,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+abundance_only,480,2,eQTL replicated,0,0,0,0.0,
+abundance_only,480,3,MOFA,15,6,9,0.6,1.0
+abundance_only,480,3,DIABLO,12,6,6,0.5,1.0
+abundance_only,480,3,eQTL,0,0,0,0.0,
+abundance_only,480,3,Wild eQTL,0,0,0,0.0,
+abundance_only,480,3,MOFA confirmed,15,6,9,0.6,1.0
+abundance_only,480,3,eQTL replicated,0,0,0,0.0,
+abundance_only,480,4,MOFA,5,5,0,0.0,0.8333333333333334
+abundance_only,480,4,DIABLO,6,6,0,0.0,1.0
+abundance_only,480,4,eQTL,0,0,0,0.0,
+abundance_only,480,4,Wild eQTL,0,0,0,0.0,
+abundance_only,480,4,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+abundance_only,480,4,eQTL replicated,0,0,0,0.0,
+abundance_only,480,5,MOFA,15,5,10,0.6666666666666666,0.8333333333333334
+abundance_only,480,5,DIABLO,6,6,0,0.0,1.0
+abundance_only,480,5,eQTL,0,0,0,0.0,
+abundance_only,480,5,Wild eQTL,0,0,0,0.0,
+abundance_only,480,5,MOFA confirmed,15,5,10,0.6666666666666666,0.8333333333333334
+abundance_only,480,5,eQTL replicated,0,0,0,0.0,
+abundance_only,480,6,MOFA,10,5,5,0.5,0.8333333333333334
+abundance_only,480,6,DIABLO,6,6,0,0.0,1.0
+abundance_only,480,6,eQTL,0,0,0,0.0,
+abundance_only,480,6,Wild eQTL,0,0,0,0.0,
+abundance_only,480,6,MOFA confirmed,10,5,5,0.5,0.8333333333333334
+abundance_only,480,6,eQTL replicated,0,0,0,0.0,
+abundance_only,480,7,MOFA,9,5,4,0.4444444444444444,0.8333333333333334
+abundance_only,480,7,DIABLO,3,3,0,0.0,0.5
+abundance_only,480,7,eQTL,0,0,0,0.0,
+abundance_only,480,7,Wild eQTL,0,0,0,0.0,
+abundance_only,480,7,MOFA confirmed,9,5,4,0.4444444444444444,0.8333333333333334
+abundance_only,480,7,eQTL replicated,0,0,0,0.0,
+abundance_only,480,8,MOFA,10,5,5,0.5,0.8333333333333334
+abundance_only,480,8,DIABLO,6,6,0,0.0,1.0
+abundance_only,480,8,eQTL,0,0,0,0.0,
+abundance_only,480,8,Wild eQTL,0,0,0,0.0,
+abundance_only,480,8,MOFA confirmed,10,5,5,0.5,0.8333333333333334
+abundance_only,480,8,eQTL replicated,0,0,0,0.0,
+abundance_only,480,9,MOFA,5,5,0,0.0,0.8333333333333334
+abundance_only,480,9,DIABLO,6,6,0,0.0,1.0
+abundance_only,480,9,eQTL,0,0,0,0.0,
+abundance_only,480,9,Wild eQTL,0,0,0,0.0,
+abundance_only,480,9,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+abundance_only,480,9,eQTL replicated,0,0,0,0.0,
+abundance_only,480,10,MOFA,9,6,3,0.3333333333333333,1.0
+abundance_only,480,10,DIABLO,3,3,0,0.0,0.5
+abundance_only,480,10,eQTL,0,0,0,0.0,
+abundance_only,480,10,Wild eQTL,0,0,0,0.0,
+abundance_only,480,10,MOFA confirmed,9,6,3,0.3333333333333333,1.0
+abundance_only,480,10,eQTL replicated,0,0,0,0.0,
+abundance_only,480,11,MOFA,10,5,5,0.5,0.8333333333333334
+abundance_only,480,11,DIABLO,6,6,0,0.0,1.0
+abundance_only,480,11,eQTL,0,0,0,0.0,
+abundance_only,480,11,Wild eQTL,0,0,0,0.0,
+abundance_only,480,11,MOFA confirmed,10,5,5,0.5,0.8333333333333334
+abundance_only,480,11,eQTL replicated,0,0,0,0.0,
+abundance_only,480,12,MOFA,6,6,0,0.0,1.0
+abundance_only,480,12,DIABLO,3,3,0,0.0,0.5
+abundance_only,480,12,eQTL,0,0,0,0.0,
+abundance_only,480,12,Wild eQTL,0,0,0,0.0,
+abundance_only,480,12,MOFA confirmed,6,6,0,0.0,1.0
+abundance_only,480,12,eQTL replicated,0,0,0,0.0,
+abundance_only,480,13,MOFA,10,5,5,0.5,0.8333333333333334
+abundance_only,480,13,DIABLO,12,6,6,0.5,1.0
+abundance_only,480,13,eQTL,0,0,0,0.0,
+abundance_only,480,13,Wild eQTL,0,0,0,0.0,
+abundance_only,480,13,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+abundance_only,480,13,eQTL replicated,0,0,0,0.0,
+abundance_only,480,14,MOFA,15,5,10,0.6666666666666666,0.8333333333333334
+abundance_only,480,14,DIABLO,6,6,0,0.0,1.0
+abundance_only,480,14,eQTL,0,0,0,0.0,
+abundance_only,480,14,Wild eQTL,0,0,0,0.0,
+abundance_only,480,14,MOFA confirmed,15,5,10,0.6666666666666666,0.8333333333333334
+abundance_only,480,14,eQTL replicated,0,0,0,0.0,
+abundance_only,480,15,MOFA,10,5,5,0.5,0.8333333333333334
+abundance_only,480,15,DIABLO,6,6,0,0.0,1.0
+abundance_only,480,15,eQTL,0,0,0,0.0,
+abundance_only,480,15,Wild eQTL,0,0,0,0.0,
+abundance_only,480,15,MOFA confirmed,10,5,5,0.5,0.8333333333333334
+abundance_only,480,15,eQTL replicated,0,0,0,0.0,
+abundance_only,480,16,MOFA,15,4,11,0.7333333333333333,0.6666666666666666
+abundance_only,480,16,DIABLO,6,6,0,0.0,1.0
+abundance_only,480,16,eQTL,0,0,0,0.0,
+abundance_only,480,16,Wild eQTL,0,0,0,0.0,
+abundance_only,480,16,MOFA confirmed,10,4,6,0.6,0.6666666666666666
+abundance_only,480,16,eQTL replicated,0,0,0,0.0,
+abundance_only,480,17,MOFA,10,5,5,0.5,0.8333333333333334
+abundance_only,480,17,DIABLO,6,6,0,0.0,1.0
+abundance_only,480,17,eQTL,0,0,0,0.0,
+abundance_only,480,17,Wild eQTL,0,0,0,0.0,
+abundance_only,480,17,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+abundance_only,480,17,eQTL replicated,0,0,0,0.0,
+abundance_only,480,18,MOFA,5,5,0,0.0,0.8333333333333334
+abundance_only,480,18,DIABLO,6,6,0,0.0,1.0
+abundance_only,480,18,eQTL,0,0,0,0.0,
+abundance_only,480,18,Wild eQTL,0,0,0,0.0,
+abundance_only,480,18,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+abundance_only,480,18,eQTL replicated,0,0,0,0.0,
+abundance_only,480,19,MOFA,10,5,5,0.5,0.8333333333333334
+abundance_only,480,19,DIABLO,6,6,0,0.0,1.0
+abundance_only,480,19,eQTL,0,0,0,0.0,
+abundance_only,480,19,Wild eQTL,0,0,0,0.0,
+abundance_only,480,19,MOFA confirmed,10,5,5,0.5,0.8333333333333334
+abundance_only,480,19,eQTL replicated,0,0,0,0.0,
+convergent,240,0,MOFA,5,5,0,0.0,0.8333333333333334
+convergent,240,0,DIABLO,6,6,0,0.0,1.0
+convergent,240,0,eQTL,6,5,1,0.16666666666666666,0.8333333333333334
+convergent,240,0,Wild eQTL,5,5,0,0.0,0.8333333333333334
+convergent,240,0,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+convergent,240,0,eQTL replicated,5,5,0,0.0,0.8333333333333334
+convergent,240,1,MOFA,5,5,0,0.0,0.8333333333333334
+convergent,240,1,DIABLO,12,6,6,0.5,1.0
+convergent,240,1,eQTL,6,6,0,0.0,1.0
+convergent,240,1,Wild eQTL,5,5,0,0.0,0.8333333333333334
+convergent,240,1,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+convergent,240,1,eQTL replicated,6,6,0,0.0,1.0
+convergent,240,2,MOFA,5,5,0,0.0,0.8333333333333334
+convergent,240,2,DIABLO,12,6,6,0.5,1.0
+convergent,240,2,eQTL,6,6,0,0.0,1.0
+convergent,240,2,Wild eQTL,6,6,0,0.0,1.0
+convergent,240,2,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+convergent,240,2,eQTL replicated,6,6,0,0.0,1.0
+convergent,240,3,MOFA,5,5,0,0.0,0.8333333333333334
+convergent,240,3,DIABLO,3,3,0,0.0,0.5
+convergent,240,3,eQTL,6,6,0,0.0,1.0
+convergent,240,3,Wild eQTL,6,6,0,0.0,1.0
+convergent,240,3,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+convergent,240,3,eQTL replicated,6,6,0,0.0,1.0
+convergent,240,4,MOFA,5,0,5,1.0,0.0
+convergent,240,4,DIABLO,6,3,3,0.5,0.5
+convergent,240,4,eQTL,6,6,0,0.0,1.0
+convergent,240,4,Wild eQTL,6,6,0,0.0,1.0
+convergent,240,4,MOFA confirmed,5,0,5,1.0,0.0
+convergent,240,4,eQTL replicated,6,6,0,0.0,1.0
+convergent,240,5,MOFA,10,5,5,0.5,0.8333333333333334
+convergent,240,5,DIABLO,12,6,6,0.5,1.0
+convergent,240,5,eQTL,5,5,0,0.0,0.8333333333333334
+convergent,240,5,Wild eQTL,6,5,1,0.16666666666666666,0.8333333333333334
+convergent,240,5,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+convergent,240,5,eQTL replicated,5,5,0,0.0,0.8333333333333334
+convergent,240,6,MOFA,5,5,0,0.0,0.8333333333333334
+convergent,240,6,DIABLO,12,6,6,0.5,1.0
+convergent,240,6,eQTL,7,6,1,0.14285714285714285,1.0
+convergent,240,6,Wild eQTL,7,6,1,0.14285714285714285,1.0
+convergent,240,6,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+convergent,240,6,eQTL replicated,6,6,0,0.0,1.0
+convergent,240,7,MOFA,5,5,0,0.0,0.8333333333333334
+convergent,240,7,DIABLO,6,6,0,0.0,1.0
+convergent,240,7,eQTL,6,6,0,0.0,1.0
+convergent,240,7,Wild eQTL,6,6,0,0.0,1.0
+convergent,240,7,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+convergent,240,7,eQTL replicated,6,6,0,0.0,1.0
+convergent,240,8,MOFA,5,4,1,0.2,0.6666666666666666
+convergent,240,8,DIABLO,3,3,0,0.0,0.5
+convergent,240,8,eQTL,6,6,0,0.0,1.0
+convergent,240,8,Wild eQTL,6,6,0,0.0,1.0
+convergent,240,8,MOFA confirmed,5,4,1,0.2,0.6666666666666666
+convergent,240,8,eQTL replicated,6,6,0,0.0,1.0
+convergent,240,9,MOFA,9,5,4,0.4444444444444444,0.8333333333333334
+convergent,240,9,DIABLO,6,6,0,0.0,1.0
+convergent,240,9,eQTL,6,6,0,0.0,1.0
+convergent,240,9,Wild eQTL,6,6,0,0.0,1.0
+convergent,240,9,MOFA confirmed,9,5,4,0.4444444444444444,0.8333333333333334
+convergent,240,9,eQTL replicated,6,6,0,0.0,1.0
+convergent,240,10,MOFA,5,5,0,0.0,0.8333333333333334
+convergent,240,10,DIABLO,12,6,6,0.5,1.0
+convergent,240,10,eQTL,5,5,0,0.0,0.8333333333333334
+convergent,240,10,Wild eQTL,5,5,0,0.0,0.8333333333333334
+convergent,240,10,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+convergent,240,10,eQTL replicated,5,5,0,0.0,0.8333333333333334
+convergent,240,11,MOFA,5,5,0,0.0,0.8333333333333334
+convergent,240,11,DIABLO,12,6,6,0.5,1.0
+convergent,240,11,eQTL,7,6,1,0.14285714285714285,1.0
+convergent,240,11,Wild eQTL,7,6,1,0.14285714285714285,1.0
+convergent,240,11,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+convergent,240,11,eQTL replicated,6,6,0,0.0,1.0
+convergent,240,12,MOFA,5,5,0,0.0,0.8333333333333334
+convergent,240,12,DIABLO,6,6,0,0.0,1.0
+convergent,240,12,eQTL,6,6,0,0.0,1.0
+convergent,240,12,Wild eQTL,6,6,0,0.0,1.0
+convergent,240,12,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+convergent,240,12,eQTL replicated,6,6,0,0.0,1.0
+convergent,240,13,MOFA,10,5,5,0.5,0.8333333333333334
+convergent,240,13,DIABLO,11,6,5,0.45454545454545453,1.0
+convergent,240,13,eQTL,6,6,0,0.0,1.0
+convergent,240,13,Wild eQTL,6,6,0,0.0,1.0
+convergent,240,13,MOFA confirmed,10,5,5,0.5,0.8333333333333334
+convergent,240,13,eQTL replicated,6,6,0,0.0,1.0
+convergent,240,14,MOFA,5,5,0,0.0,0.8333333333333334
+convergent,240,14,DIABLO,6,3,3,0.5,0.5
+convergent,240,14,eQTL,5,5,0,0.0,0.8333333333333334
+convergent,240,14,Wild eQTL,5,5,0,0.0,0.8333333333333334
+convergent,240,14,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+convergent,240,14,eQTL replicated,5,5,0,0.0,0.8333333333333334
+convergent,240,15,MOFA,5,1,4,0.8,0.16666666666666666
+convergent,240,15,DIABLO,3,3,0,0.0,0.5
+convergent,240,15,eQTL,6,6,0,0.0,1.0
+convergent,240,15,Wild eQTL,6,6,0,0.0,1.0
+convergent,240,15,MOFA confirmed,5,1,4,0.8,0.16666666666666666
+convergent,240,15,eQTL replicated,6,6,0,0.0,1.0
+convergent,240,16,MOFA,5,5,0,0.0,0.8333333333333334
+convergent,240,16,DIABLO,3,3,0,0.0,0.5
+convergent,240,16,eQTL,6,6,0,0.0,1.0
+convergent,240,16,Wild eQTL,6,6,0,0.0,1.0
+convergent,240,16,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+convergent,240,16,eQTL replicated,6,6,0,0.0,1.0
+convergent,240,17,MOFA,5,5,0,0.0,0.8333333333333334
+convergent,240,17,DIABLO,6,6,0,0.0,1.0
+convergent,240,17,eQTL,6,6,0,0.0,1.0
+convergent,240,17,Wild eQTL,6,6,0,0.0,1.0
+convergent,240,17,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+convergent,240,17,eQTL replicated,6,6,0,0.0,1.0
+convergent,240,18,MOFA,5,0,5,1.0,0.0
+convergent,240,18,DIABLO,6,6,0,0.0,1.0
+convergent,240,18,eQTL,7,6,1,0.14285714285714285,1.0
+convergent,240,18,Wild eQTL,7,6,1,0.14285714285714285,1.0
+convergent,240,18,MOFA confirmed,5,0,5,1.0,0.0
+convergent,240,18,eQTL replicated,6,6,0,0.0,1.0
+convergent,240,19,MOFA,5,5,0,0.0,0.8333333333333334
+convergent,240,19,DIABLO,6,6,0,0.0,1.0
+convergent,240,19,eQTL,6,6,0,0.0,1.0
+convergent,240,19,Wild eQTL,6,6,0,0.0,1.0
+convergent,240,19,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+convergent,240,19,eQTL replicated,6,6,0,0.0,1.0
+convergent,480,0,MOFA,5,5,0,0.0,0.8333333333333334
+convergent,480,0,DIABLO,6,6,0,0.0,1.0
+convergent,480,0,eQTL,6,6,0,0.0,1.0
+convergent,480,0,Wild eQTL,6,6,0,0.0,1.0
+convergent,480,0,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+convergent,480,0,eQTL replicated,6,6,0,0.0,1.0
+convergent,480,1,MOFA,10,5,5,0.5,0.8333333333333334
+convergent,480,1,DIABLO,6,6,0,0.0,1.0
+convergent,480,1,eQTL,7,6,1,0.14285714285714285,1.0
+convergent,480,1,Wild eQTL,6,6,0,0.0,1.0
+convergent,480,1,MOFA confirmed,10,5,5,0.5,0.8333333333333334
+convergent,480,1,eQTL replicated,6,6,0,0.0,1.0
+convergent,480,2,MOFA,5,5,0,0.0,0.8333333333333334
+convergent,480,2,DIABLO,3,3,0,0.0,0.5
+convergent,480,2,eQTL,6,6,0,0.0,1.0
+convergent,480,2,Wild eQTL,6,6,0,0.0,1.0
+convergent,480,2,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+convergent,480,2,eQTL replicated,6,6,0,0.0,1.0
+convergent,480,3,MOFA,5,5,0,0.0,0.8333333333333334
+convergent,480,3,DIABLO,5,3,2,0.4,0.5
+convergent,480,3,eQTL,6,6,0,0.0,1.0
+convergent,480,3,Wild eQTL,6,6,0,0.0,1.0
+convergent,480,3,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+convergent,480,3,eQTL replicated,6,6,0,0.0,1.0
+convergent,480,4,MOFA,15,5,10,0.6666666666666666,0.8333333333333334
+convergent,480,4,DIABLO,6,6,0,0.0,1.0
+convergent,480,4,eQTL,6,6,0,0.0,1.0
+convergent,480,4,Wild eQTL,6,6,0,0.0,1.0
+convergent,480,4,MOFA confirmed,10,5,5,0.5,0.8333333333333334
+convergent,480,4,eQTL replicated,6,6,0,0.0,1.0
+convergent,480,5,MOFA,12,5,7,0.5833333333333334,0.8333333333333334
+convergent,480,5,DIABLO,6,6,0,0.0,1.0
+convergent,480,5,eQTL,6,6,0,0.0,1.0
+convergent,480,5,Wild eQTL,6,6,0,0.0,1.0
+convergent,480,5,MOFA confirmed,12,5,7,0.5833333333333334,0.8333333333333334
+convergent,480,5,eQTL replicated,6,6,0,0.0,1.0
+convergent,480,6,MOFA,10,5,5,0.5,0.8333333333333334
+convergent,480,6,DIABLO,6,6,0,0.0,1.0
+convergent,480,6,eQTL,6,6,0,0.0,1.0
+convergent,480,6,Wild eQTL,6,6,0,0.0,1.0
+convergent,480,6,MOFA confirmed,10,5,5,0.5,0.8333333333333334
+convergent,480,6,eQTL replicated,6,6,0,0.0,1.0
+convergent,480,7,MOFA,9,4,5,0.5555555555555556,0.6666666666666666
+convergent,480,7,DIABLO,6,6,0,0.0,1.0
+convergent,480,7,eQTL,7,6,1,0.14285714285714285,1.0
+convergent,480,7,Wild eQTL,7,6,1,0.14285714285714285,1.0
+convergent,480,7,MOFA confirmed,9,4,5,0.5555555555555556,0.6666666666666666
+convergent,480,7,eQTL replicated,6,6,0,0.0,1.0
+convergent,480,8,MOFA,10,5,5,0.5,0.8333333333333334
+convergent,480,8,DIABLO,3,3,0,0.0,0.5
+convergent,480,8,eQTL,6,6,0,0.0,1.0
+convergent,480,8,Wild eQTL,6,6,0,0.0,1.0
+convergent,480,8,MOFA confirmed,10,5,5,0.5,0.8333333333333334
+convergent,480,8,eQTL replicated,6,6,0,0.0,1.0
+convergent,480,9,MOFA,10,5,5,0.5,0.8333333333333334
+convergent,480,9,DIABLO,3,3,0,0.0,0.5
+convergent,480,9,eQTL,7,6,1,0.14285714285714285,1.0
+convergent,480,9,Wild eQTL,7,6,1,0.14285714285714285,1.0
+convergent,480,9,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+convergent,480,9,eQTL replicated,6,6,0,0.0,1.0
+convergent,480,10,MOFA,10,5,5,0.5,0.8333333333333334
+convergent,480,10,DIABLO,6,6,0,0.0,1.0
+convergent,480,10,eQTL,6,6,0,0.0,1.0
+convergent,480,10,Wild eQTL,6,6,0,0.0,1.0
+convergent,480,10,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+convergent,480,10,eQTL replicated,6,6,0,0.0,1.0
+convergent,480,11,MOFA,10,5,5,0.5,0.8333333333333334
+convergent,480,11,DIABLO,6,6,0,0.0,1.0
+convergent,480,11,eQTL,6,6,0,0.0,1.0
+convergent,480,11,Wild eQTL,6,6,0,0.0,1.0
+convergent,480,11,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+convergent,480,11,eQTL replicated,6,6,0,0.0,1.0
+convergent,480,12,MOFA,5,5,0,0.0,0.8333333333333334
+convergent,480,12,DIABLO,3,3,0,0.0,0.5
+convergent,480,12,eQTL,7,6,1,0.14285714285714285,1.0
+convergent,480,12,Wild eQTL,8,6,2,0.25,1.0
+convergent,480,12,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+convergent,480,12,eQTL replicated,6,6,0,0.0,1.0
+convergent,480,13,MOFA,10,5,5,0.5,0.8333333333333334
+convergent,480,13,DIABLO,6,6,0,0.0,1.0
+convergent,480,13,eQTL,6,6,0,0.0,1.0
+convergent,480,13,Wild eQTL,6,6,0,0.0,1.0
+convergent,480,13,MOFA confirmed,10,5,5,0.5,0.8333333333333334
+convergent,480,13,eQTL replicated,6,6,0,0.0,1.0
+convergent,480,14,MOFA,9,5,4,0.4444444444444444,0.8333333333333334
+convergent,480,14,DIABLO,6,6,0,0.0,1.0
+convergent,480,14,eQTL,6,6,0,0.0,1.0
+convergent,480,14,Wild eQTL,6,6,0,0.0,1.0
+convergent,480,14,MOFA confirmed,9,5,4,0.4444444444444444,0.8333333333333334
+convergent,480,14,eQTL replicated,6,6,0,0.0,1.0
+convergent,480,15,MOFA,10,5,5,0.5,0.8333333333333334
+convergent,480,15,DIABLO,3,3,0,0.0,0.5
+convergent,480,15,eQTL,6,6,0,0.0,1.0
+convergent,480,15,Wild eQTL,6,6,0,0.0,1.0
+convergent,480,15,MOFA confirmed,10,5,5,0.5,0.8333333333333334
+convergent,480,15,eQTL replicated,6,6,0,0.0,1.0
+convergent,480,16,MOFA,5,5,0,0.0,0.8333333333333334
+convergent,480,16,DIABLO,6,6,0,0.0,1.0
+convergent,480,16,eQTL,7,6,1,0.14285714285714285,1.0
+convergent,480,16,Wild eQTL,7,6,1,0.14285714285714285,1.0
+convergent,480,16,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+convergent,480,16,eQTL replicated,6,6,0,0.0,1.0
+convergent,480,17,MOFA,10,5,5,0.5,0.8333333333333334
+convergent,480,17,DIABLO,6,6,0,0.0,1.0
+convergent,480,17,eQTL,6,6,0,0.0,1.0
+convergent,480,17,Wild eQTL,6,6,0,0.0,1.0
+convergent,480,17,MOFA confirmed,10,5,5,0.5,0.8333333333333334
+convergent,480,17,eQTL replicated,6,6,0,0.0,1.0
+convergent,480,18,MOFA,5,5,0,0.0,0.8333333333333334
+convergent,480,18,DIABLO,6,6,0,0.0,1.0
+convergent,480,18,eQTL,6,6,0,0.0,1.0
+convergent,480,18,Wild eQTL,6,6,0,0.0,1.0
+convergent,480,18,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+convergent,480,18,eQTL replicated,6,6,0,0.0,1.0
+convergent,480,19,MOFA,5,5,0,0.0,0.8333333333333334
+convergent,480,19,DIABLO,6,6,0,0.0,1.0
+convergent,480,19,eQTL,6,6,0,0.0,1.0
+convergent,480,19,Wild eQTL,6,6,0,0.0,1.0
+convergent,480,19,MOFA confirmed,5,5,0,0.0,0.8333333333333334
+convergent,480,19,eQTL replicated,6,6,0,0.0,1.0
+interaction_only,240,0,MOFA,0,0,0,0.0,0.0
+interaction_only,240,0,DIABLO,6,0,6,1.0,0.0
+interaction_only,240,0,eQTL,4,4,0,0.0,0.6666666666666666
+interaction_only,240,0,Wild eQTL,4,4,0,0.0,0.6666666666666666
+interaction_only,240,0,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,240,0,eQTL replicated,3,3,0,0.0,0.5
+interaction_only,240,1,MOFA,0,0,0,0.0,0.0
+interaction_only,240,1,DIABLO,6,2,4,0.6666666666666666,0.3333333333333333
+interaction_only,240,1,eQTL,7,5,2,0.2857142857142857,0.8333333333333334
+interaction_only,240,1,Wild eQTL,7,5,2,0.2857142857142857,0.8333333333333334
+interaction_only,240,1,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,240,1,eQTL replicated,5,5,0,0.0,0.8333333333333334
+interaction_only,240,2,MOFA,5,0,5,1.0,0.0
+interaction_only,240,2,DIABLO,6,0,6,1.0,0.0
+interaction_only,240,2,eQTL,2,2,0,0.0,0.3333333333333333
+interaction_only,240,2,Wild eQTL,2,2,0,0.0,0.3333333333333333
+interaction_only,240,2,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,240,2,eQTL replicated,2,2,0,0.0,0.3333333333333333
+interaction_only,240,3,MOFA,0,0,0,0.0,0.0
+interaction_only,240,3,DIABLO,3,0,3,1.0,0.0
+interaction_only,240,3,eQTL,4,4,0,0.0,0.6666666666666666
+interaction_only,240,3,Wild eQTL,4,4,0,0.0,0.6666666666666666
+interaction_only,240,3,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,240,3,eQTL replicated,4,4,0,0.0,0.6666666666666666
+interaction_only,240,4,MOFA,0,0,0,0.0,0.0
+interaction_only,240,4,DIABLO,6,0,6,1.0,0.0
+interaction_only,240,4,eQTL,3,3,0,0.0,0.5
+interaction_only,240,4,Wild eQTL,3,3,0,0.0,0.5
+interaction_only,240,4,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,240,4,eQTL replicated,2,2,0,0.0,0.3333333333333333
+interaction_only,240,5,MOFA,0,0,0,0.0,0.0
+interaction_only,240,5,DIABLO,6,1,5,0.8333333333333334,0.16666666666666666
+interaction_only,240,5,eQTL,2,2,0,0.0,0.3333333333333333
+interaction_only,240,5,Wild eQTL,3,3,0,0.0,0.5
+interaction_only,240,5,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,240,5,eQTL replicated,2,2,0,0.0,0.3333333333333333
+interaction_only,240,6,MOFA,0,0,0,0.0,0.0
+interaction_only,240,6,DIABLO,11,4,7,0.6363636363636364,0.6666666666666666
+interaction_only,240,6,eQTL,4,4,0,0.0,0.6666666666666666
+interaction_only,240,6,Wild eQTL,4,4,0,0.0,0.6666666666666666
+interaction_only,240,6,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,240,6,eQTL replicated,4,4,0,0.0,0.6666666666666666
+interaction_only,240,7,MOFA,0,0,0,0.0,0.0
+interaction_only,240,7,DIABLO,3,0,3,1.0,0.0
+interaction_only,240,7,eQTL,5,5,0,0.0,0.8333333333333334
+interaction_only,240,7,Wild eQTL,4,4,0,0.0,0.6666666666666666
+interaction_only,240,7,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,240,7,eQTL replicated,4,4,0,0.0,0.6666666666666666
+interaction_only,240,8,MOFA,0,0,0,0.0,0.0
+interaction_only,240,8,DIABLO,6,0,6,1.0,0.0
+interaction_only,240,8,eQTL,4,4,0,0.0,0.6666666666666666
+interaction_only,240,8,Wild eQTL,4,4,0,0.0,0.6666666666666666
+interaction_only,240,8,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,240,8,eQTL replicated,4,4,0,0.0,0.6666666666666666
+interaction_only,240,9,MOFA,5,0,5,1.0,0.0
+interaction_only,240,9,DIABLO,6,6,0,0.0,1.0
+interaction_only,240,9,eQTL,7,6,1,0.14285714285714285,1.0
+interaction_only,240,9,Wild eQTL,4,4,0,0.0,0.6666666666666666
+interaction_only,240,9,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,240,9,eQTL replicated,5,5,0,0.0,0.8333333333333334
+interaction_only,240,10,MOFA,0,0,0,0.0,0.0
+interaction_only,240,10,DIABLO,12,2,10,0.8333333333333334,0.3333333333333333
+interaction_only,240,10,eQTL,1,1,0,0.0,0.16666666666666666
+interaction_only,240,10,Wild eQTL,2,2,0,0.0,0.3333333333333333
+interaction_only,240,10,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,240,10,eQTL replicated,1,1,0,0.0,0.16666666666666666
+interaction_only,240,11,MOFA,0,0,0,0.0,0.0
+interaction_only,240,11,DIABLO,12,2,10,0.8333333333333334,0.3333333333333333
+interaction_only,240,11,eQTL,4,4,0,0.0,0.6666666666666666
+interaction_only,240,11,Wild eQTL,4,4,0,0.0,0.6666666666666666
+interaction_only,240,11,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,240,11,eQTL replicated,4,4,0,0.0,0.6666666666666666
+interaction_only,240,12,MOFA,0,0,0,0.0,0.0
+interaction_only,240,12,DIABLO,3,0,3,1.0,0.0
+interaction_only,240,12,eQTL,1,1,0,0.0,0.16666666666666666
+interaction_only,240,12,Wild eQTL,0,0,0,0.0,0.0
+interaction_only,240,12,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,240,12,eQTL replicated,1,1,0,0.0,0.16666666666666666
+interaction_only,240,13,MOFA,0,0,0,0.0,0.0
+interaction_only,240,13,DIABLO,5,3,2,0.4,0.5
+interaction_only,240,13,eQTL,1,1,0,0.0,0.16666666666666666
+interaction_only,240,13,Wild eQTL,1,1,0,0.0,0.16666666666666666
+interaction_only,240,13,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,240,13,eQTL replicated,1,1,0,0.0,0.16666666666666666
+interaction_only,240,14,MOFA,0,0,0,0.0,0.0
+interaction_only,240,14,DIABLO,6,0,6,1.0,0.0
+interaction_only,240,14,eQTL,5,5,0,0.0,0.8333333333333334
+interaction_only,240,14,Wild eQTL,5,5,0,0.0,0.8333333333333334
+interaction_only,240,14,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,240,14,eQTL replicated,3,3,0,0.0,0.5
+interaction_only,240,15,MOFA,0,0,0,0.0,0.0
+interaction_only,240,15,DIABLO,3,1,2,0.6666666666666666,0.16666666666666666
+interaction_only,240,15,eQTL,4,4,0,0.0,0.6666666666666666
+interaction_only,240,15,Wild eQTL,4,4,0,0.0,0.6666666666666666
+interaction_only,240,15,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,240,15,eQTL replicated,4,4,0,0.0,0.6666666666666666
+interaction_only,240,16,MOFA,0,0,0,0.0,0.0
+interaction_only,240,16,DIABLO,6,2,4,0.6666666666666666,0.3333333333333333
+interaction_only,240,16,eQTL,6,6,0,0.0,1.0
+interaction_only,240,16,Wild eQTL,4,4,0,0.0,0.6666666666666666
+interaction_only,240,16,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,240,16,eQTL replicated,6,6,0,0.0,1.0
+interaction_only,240,17,MOFA,0,0,0,0.0,0.0
+interaction_only,240,17,DIABLO,6,4,2,0.3333333333333333,0.6666666666666666
+interaction_only,240,17,eQTL,5,5,0,0.0,0.8333333333333334
+interaction_only,240,17,Wild eQTL,5,5,0,0.0,0.8333333333333334
+interaction_only,240,17,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,240,17,eQTL replicated,5,5,0,0.0,0.8333333333333334
+interaction_only,240,18,MOFA,0,0,0,0.0,0.0
+interaction_only,240,18,DIABLO,12,1,11,0.9166666666666666,0.16666666666666666
+interaction_only,240,18,eQTL,4,3,1,0.25,0.5
+interaction_only,240,18,Wild eQTL,2,2,0,0.0,0.3333333333333333
+interaction_only,240,18,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,240,18,eQTL replicated,3,3,0,0.0,0.5
+interaction_only,240,19,MOFA,0,0,0,0.0,0.0
+interaction_only,240,19,DIABLO,6,2,4,0.6666666666666666,0.3333333333333333
+interaction_only,240,19,eQTL,6,5,1,0.16666666666666666,0.8333333333333334
+interaction_only,240,19,Wild eQTL,5,4,1,0.2,0.6666666666666666
+interaction_only,240,19,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,240,19,eQTL replicated,4,4,0,0.0,0.6666666666666666
+interaction_only,480,0,MOFA,0,0,0,0.0,0.0
+interaction_only,480,0,DIABLO,6,1,5,0.8333333333333334,0.16666666666666666
+interaction_only,480,0,eQTL,5,5,0,0.0,0.8333333333333334
+interaction_only,480,0,Wild eQTL,5,5,0,0.0,0.8333333333333334
+interaction_only,480,0,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,480,0,eQTL replicated,4,4,0,0.0,0.6666666666666666
+interaction_only,480,1,MOFA,0,0,0,0.0,0.0
+interaction_only,480,1,DIABLO,3,0,3,1.0,0.0
+interaction_only,480,1,eQTL,6,6,0,0.0,1.0
+interaction_only,480,1,Wild eQTL,5,5,0,0.0,0.8333333333333334
+interaction_only,480,1,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,480,1,eQTL replicated,6,6,0,0.0,1.0
+interaction_only,480,2,MOFA,0,0,0,0.0,0.0
+interaction_only,480,2,DIABLO,12,5,7,0.5833333333333334,0.8333333333333334
+interaction_only,480,2,eQTL,6,6,0,0.0,1.0
+interaction_only,480,2,Wild eQTL,6,6,0,0.0,1.0
+interaction_only,480,2,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,480,2,eQTL replicated,6,6,0,0.0,1.0
+interaction_only,480,3,MOFA,0,0,0,0.0,0.0
+interaction_only,480,3,DIABLO,3,1,2,0.6666666666666666,0.16666666666666666
+interaction_only,480,3,eQTL,7,6,1,0.14285714285714285,1.0
+interaction_only,480,3,Wild eQTL,7,6,1,0.14285714285714285,1.0
+interaction_only,480,3,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,480,3,eQTL replicated,4,4,0,0.0,0.6666666666666666
+interaction_only,480,4,MOFA,0,0,0,0.0,0.0
+interaction_only,480,4,DIABLO,6,1,5,0.8333333333333334,0.16666666666666666
+interaction_only,480,4,eQTL,6,6,0,0.0,1.0
+interaction_only,480,4,Wild eQTL,6,6,0,0.0,1.0
+interaction_only,480,4,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,480,4,eQTL replicated,5,5,0,0.0,0.8333333333333334
+interaction_only,480,5,MOFA,0,0,0,0.0,0.0
+interaction_only,480,5,DIABLO,6,3,3,0.5,0.5
+interaction_only,480,5,eQTL,7,6,1,0.14285714285714285,1.0
+interaction_only,480,5,Wild eQTL,7,6,1,0.14285714285714285,1.0
+interaction_only,480,5,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,480,5,eQTL replicated,5,5,0,0.0,0.8333333333333334
+interaction_only,480,6,MOFA,0,0,0,0.0,0.0
+interaction_only,480,6,DIABLO,3,0,3,1.0,0.0
+interaction_only,480,6,eQTL,6,6,0,0.0,1.0
+interaction_only,480,6,Wild eQTL,6,6,0,0.0,1.0
+interaction_only,480,6,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,480,6,eQTL replicated,6,6,0,0.0,1.0
+interaction_only,480,7,MOFA,0,0,0,0.0,0.0
+interaction_only,480,7,DIABLO,6,1,5,0.8333333333333334,0.16666666666666666
+interaction_only,480,7,eQTL,5,5,0,0.0,0.8333333333333334
+interaction_only,480,7,Wild eQTL,5,5,0,0.0,0.8333333333333334
+interaction_only,480,7,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,480,7,eQTL replicated,4,4,0,0.0,0.6666666666666666
+interaction_only,480,8,MOFA,0,0,0,0.0,0.0
+interaction_only,480,8,DIABLO,3,2,1,0.3333333333333333,0.3333333333333333
+interaction_only,480,8,eQTL,6,6,0,0.0,1.0
+interaction_only,480,8,Wild eQTL,6,6,0,0.0,1.0
+interaction_only,480,8,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,480,8,eQTL replicated,3,3,0,0.0,0.5
+interaction_only,480,9,MOFA,0,0,0,0.0,0.0
+interaction_only,480,9,DIABLO,6,2,4,0.6666666666666666,0.3333333333333333
+interaction_only,480,9,eQTL,7,6,1,0.14285714285714285,1.0
+interaction_only,480,9,Wild eQTL,7,6,1,0.14285714285714285,1.0
+interaction_only,480,9,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,480,9,eQTL replicated,6,6,0,0.0,1.0
+interaction_only,480,10,MOFA,0,0,0,0.0,0.0
+interaction_only,480,10,DIABLO,12,3,9,0.75,0.5
+interaction_only,480,10,eQTL,6,6,0,0.0,1.0
+interaction_only,480,10,Wild eQTL,6,6,0,0.0,1.0
+interaction_only,480,10,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,480,10,eQTL replicated,6,6,0,0.0,1.0
+interaction_only,480,11,MOFA,0,0,0,0.0,0.0
+interaction_only,480,11,DIABLO,3,0,3,1.0,0.0
+interaction_only,480,11,eQTL,6,6,0,0.0,1.0
+interaction_only,480,11,Wild eQTL,6,6,0,0.0,1.0
+interaction_only,480,11,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,480,11,eQTL replicated,6,6,0,0.0,1.0
+interaction_only,480,12,MOFA,0,0,0,0.0,0.0
+interaction_only,480,12,DIABLO,6,5,1,0.16666666666666666,0.8333333333333334
+interaction_only,480,12,eQTL,6,6,0,0.0,1.0
+interaction_only,480,12,Wild eQTL,5,5,0,0.0,0.8333333333333334
+interaction_only,480,12,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,480,12,eQTL replicated,5,5,0,0.0,0.8333333333333334
+interaction_only,480,13,MOFA,0,0,0,0.0,0.0
+interaction_only,480,13,DIABLO,3,0,3,1.0,0.0
+interaction_only,480,13,eQTL,6,6,0,0.0,1.0
+interaction_only,480,13,Wild eQTL,6,6,0,0.0,1.0
+interaction_only,480,13,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,480,13,eQTL replicated,6,6,0,0.0,1.0
+interaction_only,480,14,MOFA,0,0,0,0.0,0.0
+interaction_only,480,14,DIABLO,6,2,4,0.6666666666666666,0.3333333333333333
+interaction_only,480,14,eQTL,6,6,0,0.0,1.0
+interaction_only,480,14,Wild eQTL,6,6,0,0.0,1.0
+interaction_only,480,14,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,480,14,eQTL replicated,6,6,0,0.0,1.0
+interaction_only,480,15,MOFA,5,1,4,0.8,0.16666666666666666
+interaction_only,480,15,DIABLO,6,2,4,0.6666666666666666,0.3333333333333333
+interaction_only,480,15,eQTL,5,5,0,0.0,0.8333333333333334
+interaction_only,480,15,Wild eQTL,5,5,0,0.0,0.8333333333333334
+interaction_only,480,15,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,480,15,eQTL replicated,5,5,0,0.0,0.8333333333333334
+interaction_only,480,16,MOFA,0,0,0,0.0,0.0
+interaction_only,480,16,DIABLO,6,1,5,0.8333333333333334,0.16666666666666666
+interaction_only,480,16,eQTL,6,6,0,0.0,1.0
+interaction_only,480,16,Wild eQTL,6,6,0,0.0,1.0
+interaction_only,480,16,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,480,16,eQTL replicated,4,4,0,0.0,0.6666666666666666
+interaction_only,480,17,MOFA,0,0,0,0.0,0.0
+interaction_only,480,17,DIABLO,6,1,5,0.8333333333333334,0.16666666666666666
+interaction_only,480,17,eQTL,6,6,0,0.0,1.0
+interaction_only,480,17,Wild eQTL,6,6,0,0.0,1.0
+interaction_only,480,17,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,480,17,eQTL replicated,6,6,0,0.0,1.0
+interaction_only,480,18,MOFA,0,0,0,0.0,0.0
+interaction_only,480,18,DIABLO,6,1,5,0.8333333333333334,0.16666666666666666
+interaction_only,480,18,eQTL,6,6,0,0.0,1.0
+interaction_only,480,18,Wild eQTL,6,6,0,0.0,1.0
+interaction_only,480,18,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,480,18,eQTL replicated,6,6,0,0.0,1.0
+interaction_only,480,19,MOFA,0,0,0,0.0,0.0
+interaction_only,480,19,DIABLO,12,2,10,0.8333333333333334,0.3333333333333333
+interaction_only,480,19,eQTL,5,5,0,0.0,0.8333333333333334
+interaction_only,480,19,Wild eQTL,5,5,0,0.0,0.8333333333333334
+interaction_only,480,19,MOFA confirmed,0,0,0,0.0,0.0
+interaction_only,480,19,eQTL replicated,4,4,0,0.0,0.6666666666666666
+null,240,0,MOFA,0,0,0,0.0,
+null,240,0,DIABLO,5,0,5,1.0,
+null,240,0,eQTL,0,0,0,0.0,
+null,240,0,Wild eQTL,0,0,0,0.0,
+null,240,0,MOFA confirmed,0,0,0,0.0,
+null,240,0,eQTL replicated,0,0,0,0.0,
+null,240,1,MOFA,0,0,0,0.0,
+null,240,1,DIABLO,6,0,6,1.0,
+null,240,1,eQTL,0,0,0,0.0,
+null,240,1,Wild eQTL,0,0,0,0.0,
+null,240,1,MOFA confirmed,0,0,0,0.0,
+null,240,1,eQTL replicated,0,0,0,0.0,
+null,240,2,MOFA,0,0,0,0.0,
+null,240,2,DIABLO,6,0,6,1.0,
+null,240,2,eQTL,0,0,0,0.0,
+null,240,2,Wild eQTL,0,0,0,0.0,
+null,240,2,MOFA confirmed,0,0,0,0.0,
+null,240,2,eQTL replicated,0,0,0,0.0,
+null,240,3,MOFA,0,0,0,0.0,
+null,240,3,DIABLO,3,0,3,1.0,
+null,240,3,eQTL,0,0,0,0.0,
+null,240,3,Wild eQTL,0,0,0,0.0,
+null,240,3,MOFA confirmed,0,0,0,0.0,
+null,240,3,eQTL replicated,0,0,0,0.0,
+null,240,4,MOFA,0,0,0,0.0,
+null,240,4,DIABLO,3,0,3,1.0,
+null,240,4,eQTL,1,0,1,1.0,
+null,240,4,Wild eQTL,0,0,0,0.0,
+null,240,4,MOFA confirmed,0,0,0,0.0,
+null,240,4,eQTL replicated,0,0,0,0.0,
+null,240,5,MOFA,0,0,0,0.0,
+null,240,5,DIABLO,3,0,3,1.0,
+null,240,5,eQTL,0,0,0,0.0,
+null,240,5,Wild eQTL,0,0,0,0.0,
+null,240,5,MOFA confirmed,0,0,0,0.0,
+null,240,5,eQTL replicated,0,0,0,0.0,
+null,240,6,MOFA,0,0,0,0.0,
+null,240,6,DIABLO,12,0,12,1.0,
+null,240,6,eQTL,0,0,0,0.0,
+null,240,6,Wild eQTL,0,0,0,0.0,
+null,240,6,MOFA confirmed,0,0,0,0.0,
+null,240,6,eQTL replicated,0,0,0,0.0,
+null,240,7,MOFA,0,0,0,0.0,
+null,240,7,DIABLO,5,0,5,1.0,
+null,240,7,eQTL,0,0,0,0.0,
+null,240,7,Wild eQTL,0,0,0,0.0,
+null,240,7,MOFA confirmed,0,0,0,0.0,
+null,240,7,eQTL replicated,0,0,0,0.0,
+null,240,8,MOFA,0,0,0,0.0,
+null,240,8,DIABLO,3,0,3,1.0,
+null,240,8,eQTL,0,0,0,0.0,
+null,240,8,Wild eQTL,0,0,0,0.0,
+null,240,8,MOFA confirmed,0,0,0,0.0,
+null,240,8,eQTL replicated,0,0,0,0.0,
+null,240,9,MOFA,0,0,0,0.0,
+null,240,9,DIABLO,3,0,3,1.0,
+null,240,9,eQTL,0,0,0,0.0,
+null,240,9,Wild eQTL,0,0,0,0.0,
+null,240,9,MOFA confirmed,0,0,0,0.0,
+null,240,9,eQTL replicated,0,0,0,0.0,
+null,240,10,MOFA,0,0,0,0.0,
+null,240,10,DIABLO,11,0,11,1.0,
+null,240,10,eQTL,0,0,0,0.0,
+null,240,10,Wild eQTL,0,0,0,0.0,
+null,240,10,MOFA confirmed,0,0,0,0.0,
+null,240,10,eQTL replicated,0,0,0,0.0,
+null,240,11,MOFA,0,0,0,0.0,
+null,240,11,DIABLO,3,0,3,1.0,
+null,240,11,eQTL,0,0,0,0.0,
+null,240,11,Wild eQTL,0,0,0,0.0,
+null,240,11,MOFA confirmed,0,0,0,0.0,
+null,240,11,eQTL replicated,0,0,0,0.0,
+null,240,12,MOFA,0,0,0,0.0,
+null,240,12,DIABLO,6,0,6,1.0,
+null,240,12,eQTL,0,0,0,0.0,
+null,240,12,Wild eQTL,0,0,0,0.0,
+null,240,12,MOFA confirmed,0,0,0,0.0,
+null,240,12,eQTL replicated,0,0,0,0.0,
+null,240,13,MOFA,0,0,0,0.0,
+null,240,13,DIABLO,10,0,10,1.0,
+null,240,13,eQTL,0,0,0,0.0,
+null,240,13,Wild eQTL,0,0,0,0.0,
+null,240,13,MOFA confirmed,0,0,0,0.0,
+null,240,13,eQTL replicated,0,0,0,0.0,
+null,240,14,MOFA,0,0,0,0.0,
+null,240,14,DIABLO,6,0,6,1.0,
+null,240,14,eQTL,0,0,0,0.0,
+null,240,14,Wild eQTL,0,0,0,0.0,
+null,240,14,MOFA confirmed,0,0,0,0.0,
+null,240,14,eQTL replicated,0,0,0,0.0,
+null,240,15,MOFA,0,0,0,0.0,
+null,240,15,DIABLO,6,0,6,1.0,
+null,240,15,eQTL,0,0,0,0.0,
+null,240,15,Wild eQTL,0,0,0,0.0,
+null,240,15,MOFA confirmed,0,0,0,0.0,
+null,240,15,eQTL replicated,0,0,0,0.0,
+null,240,16,MOFA,0,0,0,0.0,
+null,240,16,DIABLO,6,0,6,1.0,
+null,240,16,eQTL,0,0,0,0.0,
+null,240,16,Wild eQTL,0,0,0,0.0,
+null,240,16,MOFA confirmed,0,0,0,0.0,
+null,240,16,eQTL replicated,0,0,0,0.0,
+null,240,17,MOFA,0,0,0,0.0,
+null,240,17,DIABLO,3,0,3,1.0,
+null,240,17,eQTL,0,0,0,0.0,
+null,240,17,Wild eQTL,0,0,0,0.0,
+null,240,17,MOFA confirmed,0,0,0,0.0,
+null,240,17,eQTL replicated,0,0,0,0.0,
+null,240,18,MOFA,0,0,0,0.0,
+null,240,18,DIABLO,6,0,6,1.0,
+null,240,18,eQTL,0,0,0,0.0,
+null,240,18,Wild eQTL,0,0,0,0.0,
+null,240,18,MOFA confirmed,0,0,0,0.0,
+null,240,18,eQTL replicated,0,0,0,0.0,
+null,240,19,MOFA,0,0,0,0.0,
+null,240,19,DIABLO,6,0,6,1.0,
+null,240,19,eQTL,0,0,0,0.0,
+null,240,19,Wild eQTL,0,0,0,0.0,
+null,240,19,MOFA confirmed,0,0,0,0.0,
+null,240,19,eQTL replicated,0,0,0,0.0,
+null,480,0,MOFA,0,0,0,0.0,
+null,480,0,DIABLO,3,0,3,1.0,
+null,480,0,eQTL,1,0,1,1.0,
+null,480,0,Wild eQTL,1,0,1,1.0,
+null,480,0,MOFA confirmed,0,0,0,0.0,
+null,480,0,eQTL replicated,0,0,0,0.0,
+null,480,1,MOFA,0,0,0,0.0,
+null,480,1,DIABLO,6,0,6,1.0,
+null,480,1,eQTL,0,0,0,0.0,
+null,480,1,Wild eQTL,0,0,0,0.0,
+null,480,1,MOFA confirmed,0,0,0,0.0,
+null,480,1,eQTL replicated,0,0,0,0.0,
+null,480,2,MOFA,0,0,0,0.0,
+null,480,2,DIABLO,6,0,6,1.0,
+null,480,2,eQTL,0,0,0,0.0,
+null,480,2,Wild eQTL,0,0,0,0.0,
+null,480,2,MOFA confirmed,0,0,0,0.0,
+null,480,2,eQTL replicated,0,0,0,0.0,
+null,480,3,MOFA,0,0,0,0.0,
+null,480,3,DIABLO,3,0,3,1.0,
+null,480,3,eQTL,0,0,0,0.0,
+null,480,3,Wild eQTL,0,0,0,0.0,
+null,480,3,MOFA confirmed,0,0,0,0.0,
+null,480,3,eQTL replicated,0,0,0,0.0,
+null,480,4,MOFA,0,0,0,0.0,
+null,480,4,DIABLO,6,0,6,1.0,
+null,480,4,eQTL,0,0,0,0.0,
+null,480,4,Wild eQTL,0,0,0,0.0,
+null,480,4,MOFA confirmed,0,0,0,0.0,
+null,480,4,eQTL replicated,0,0,0,0.0,
+null,480,5,MOFA,0,0,0,0.0,
+null,480,5,DIABLO,12,0,12,1.0,
+null,480,5,eQTL,0,0,0,0.0,
+null,480,5,Wild eQTL,0,0,0,0.0,
+null,480,5,MOFA confirmed,0,0,0,0.0,
+null,480,5,eQTL replicated,0,0,0,0.0,
+null,480,6,MOFA,0,0,0,0.0,
+null,480,6,DIABLO,6,0,6,1.0,
+null,480,6,eQTL,0,0,0,0.0,
+null,480,6,Wild eQTL,0,0,0,0.0,
+null,480,6,MOFA confirmed,0,0,0,0.0,
+null,480,6,eQTL replicated,0,0,0,0.0,
+null,480,7,MOFA,0,0,0,0.0,
+null,480,7,DIABLO,6,0,6,1.0,
+null,480,7,eQTL,0,0,0,0.0,
+null,480,7,Wild eQTL,0,0,0,0.0,
+null,480,7,MOFA confirmed,0,0,0,0.0,
+null,480,7,eQTL replicated,0,0,0,0.0,
+null,480,8,MOFA,0,0,0,0.0,
+null,480,8,DIABLO,6,0,6,1.0,
+null,480,8,eQTL,0,0,0,0.0,
+null,480,8,Wild eQTL,0,0,0,0.0,
+null,480,8,MOFA confirmed,0,0,0,0.0,
+null,480,8,eQTL replicated,0,0,0,0.0,
+null,480,9,MOFA,0,0,0,0.0,
+null,480,9,DIABLO,12,0,12,1.0,
+null,480,9,eQTL,1,0,1,1.0,
+null,480,9,Wild eQTL,0,0,0,0.0,
+null,480,9,MOFA confirmed,0,0,0,0.0,
+null,480,9,eQTL replicated,0,0,0,0.0,
+null,480,10,MOFA,0,0,0,0.0,
+null,480,10,DIABLO,5,0,5,1.0,
+null,480,10,eQTL,0,0,0,0.0,
+null,480,10,Wild eQTL,0,0,0,0.0,
+null,480,10,MOFA confirmed,0,0,0,0.0,
+null,480,10,eQTL replicated,0,0,0,0.0,
+null,480,11,MOFA,0,0,0,0.0,
+null,480,11,DIABLO,6,0,6,1.0,
+null,480,11,eQTL,0,0,0,0.0,
+null,480,11,Wild eQTL,0,0,0,0.0,
+null,480,11,MOFA confirmed,0,0,0,0.0,
+null,480,11,eQTL replicated,0,0,0,0.0,
+null,480,12,MOFA,0,0,0,0.0,
+null,480,12,DIABLO,6,0,6,1.0,
+null,480,12,eQTL,0,0,0,0.0,
+null,480,12,Wild eQTL,0,0,0,0.0,
+null,480,12,MOFA confirmed,0,0,0,0.0,
+null,480,12,eQTL replicated,0,0,0,0.0,
+null,480,13,MOFA,0,0,0,0.0,
+null,480,13,DIABLO,6,0,6,1.0,
+null,480,13,eQTL,0,0,0,0.0,
+null,480,13,Wild eQTL,0,0,0,0.0,
+null,480,13,MOFA confirmed,0,0,0,0.0,
+null,480,13,eQTL replicated,0,0,0,0.0,
+null,480,14,MOFA,0,0,0,0.0,
+null,480,14,DIABLO,3,0,3,1.0,
+null,480,14,eQTL,0,0,0,0.0,
+null,480,14,Wild eQTL,0,0,0,0.0,
+null,480,14,MOFA confirmed,0,0,0,0.0,
+null,480,14,eQTL replicated,0,0,0,0.0,
+null,480,15,MOFA,0,0,0,0.0,
+null,480,15,DIABLO,6,0,6,1.0,
+null,480,15,eQTL,0,0,0,0.0,
+null,480,15,Wild eQTL,0,0,0,0.0,
+null,480,15,MOFA confirmed,0,0,0,0.0,
+null,480,15,eQTL replicated,0,0,0,0.0,
+null,480,16,MOFA,0,0,0,0.0,
+null,480,16,DIABLO,6,0,6,1.0,
+null,480,16,eQTL,0,0,0,0.0,
+null,480,16,Wild eQTL,0,0,0,0.0,
+null,480,16,MOFA confirmed,0,0,0,0.0,
+null,480,16,eQTL replicated,0,0,0,0.0,
+null,480,17,MOFA,0,0,0,0.0,
+null,480,17,DIABLO,6,0,6,1.0,
+null,480,17,eQTL,0,0,0,0.0,
+null,480,17,Wild eQTL,0,0,0,0.0,
+null,480,17,MOFA confirmed,0,0,0,0.0,
+null,480,17,eQTL replicated,0,0,0,0.0,
+null,480,18,MOFA,0,0,0,0.0,
+null,480,18,DIABLO,6,0,6,1.0,
+null,480,18,eQTL,0,0,0,0.0,
+null,480,18,Wild eQTL,0,0,0,0.0,
+null,480,18,MOFA confirmed,0,0,0,0.0,
+null,480,18,eQTL replicated,0,0,0,0.0,
+null,480,19,MOFA,0,0,0,0.0,
+null,480,19,DIABLO,6,0,6,1.0,
+null,480,19,eQTL,0,0,0,0.0,
+null,480,19,Wild eQTL,0,0,0,0.0,
+null,480,19,MOFA confirmed,0,0,0,0.0,
+null,480,19,eQTL replicated,0,0,0,0.0,
+regulation_only,240,0,MOFA,0,0,0,0.0,
+regulation_only,240,0,DIABLO,6,0,6,1.0,
+regulation_only,240,0,eQTL,7,6,1,0.14285714285714285,1.0
+regulation_only,240,0,Wild eQTL,6,6,0,0.0,1.0
+regulation_only,240,0,MOFA confirmed,0,0,0,0.0,
+regulation_only,240,0,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,240,1,MOFA,0,0,0,0.0,
+regulation_only,240,1,DIABLO,3,0,3,1.0,
+regulation_only,240,1,eQTL,7,6,1,0.14285714285714285,1.0
+regulation_only,240,1,Wild eQTL,7,6,1,0.14285714285714285,1.0
+regulation_only,240,1,MOFA confirmed,0,0,0,0.0,
+regulation_only,240,1,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,240,2,MOFA,0,0,0,0.0,
+regulation_only,240,2,DIABLO,12,0,12,1.0,
+regulation_only,240,2,eQTL,8,6,2,0.25,1.0
+regulation_only,240,2,Wild eQTL,7,6,1,0.14285714285714285,1.0
+regulation_only,240,2,MOFA confirmed,0,0,0,0.0,
+regulation_only,240,2,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,240,3,MOFA,0,0,0,0.0,
+regulation_only,240,3,DIABLO,6,0,6,1.0,
+regulation_only,240,3,eQTL,7,6,1,0.14285714285714285,1.0
+regulation_only,240,3,Wild eQTL,7,6,1,0.14285714285714285,1.0
+regulation_only,240,3,MOFA confirmed,0,0,0,0.0,
+regulation_only,240,3,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,240,4,MOFA,0,0,0,0.0,
+regulation_only,240,4,DIABLO,3,0,3,1.0,
+regulation_only,240,4,eQTL,6,6,0,0.0,1.0
+regulation_only,240,4,Wild eQTL,6,6,0,0.0,1.0
+regulation_only,240,4,MOFA confirmed,0,0,0,0.0,
+regulation_only,240,4,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,240,5,MOFA,0,0,0,0.0,
+regulation_only,240,5,DIABLO,3,0,3,1.0,
+regulation_only,240,5,eQTL,6,6,0,0.0,1.0
+regulation_only,240,5,Wild eQTL,6,6,0,0.0,1.0
+regulation_only,240,5,MOFA confirmed,0,0,0,0.0,
+regulation_only,240,5,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,240,6,MOFA,0,0,0,0.0,
+regulation_only,240,6,DIABLO,6,0,6,1.0,
+regulation_only,240,6,eQTL,6,6,0,0.0,1.0
+regulation_only,240,6,Wild eQTL,6,6,0,0.0,1.0
+regulation_only,240,6,MOFA confirmed,0,0,0,0.0,
+regulation_only,240,6,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,240,7,MOFA,0,0,0,0.0,
+regulation_only,240,7,DIABLO,6,0,6,1.0,
+regulation_only,240,7,eQTL,6,6,0,0.0,1.0
+regulation_only,240,7,Wild eQTL,5,5,0,0.0,0.8333333333333334
+regulation_only,240,7,MOFA confirmed,0,0,0,0.0,
+regulation_only,240,7,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,240,8,MOFA,0,0,0,0.0,
+regulation_only,240,8,DIABLO,6,0,6,1.0,
+regulation_only,240,8,eQTL,6,6,0,0.0,1.0
+regulation_only,240,8,Wild eQTL,6,6,0,0.0,1.0
+regulation_only,240,8,MOFA confirmed,0,0,0,0.0,
+regulation_only,240,8,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,240,9,MOFA,0,0,0,0.0,
+regulation_only,240,9,DIABLO,6,0,6,1.0,
+regulation_only,240,9,eQTL,6,6,0,0.0,1.0
+regulation_only,240,9,Wild eQTL,6,6,0,0.0,1.0
+regulation_only,240,9,MOFA confirmed,0,0,0,0.0,
+regulation_only,240,9,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,240,10,MOFA,0,0,0,0.0,
+regulation_only,240,10,DIABLO,6,0,6,1.0,
+regulation_only,240,10,eQTL,6,6,0,0.0,1.0
+regulation_only,240,10,Wild eQTL,6,6,0,0.0,1.0
+regulation_only,240,10,MOFA confirmed,0,0,0,0.0,
+regulation_only,240,10,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,240,11,MOFA,0,0,0,0.0,
+regulation_only,240,11,DIABLO,6,0,6,1.0,
+regulation_only,240,11,eQTL,6,6,0,0.0,1.0
+regulation_only,240,11,Wild eQTL,6,6,0,0.0,1.0
+regulation_only,240,11,MOFA confirmed,0,0,0,0.0,
+regulation_only,240,11,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,240,12,MOFA,0,0,0,0.0,
+regulation_only,240,12,DIABLO,3,0,3,1.0,
+regulation_only,240,12,eQTL,6,6,0,0.0,1.0
+regulation_only,240,12,Wild eQTL,6,6,0,0.0,1.0
+regulation_only,240,12,MOFA confirmed,0,0,0,0.0,
+regulation_only,240,12,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,240,13,MOFA,0,0,0,0.0,
+regulation_only,240,13,DIABLO,6,0,6,1.0,
+regulation_only,240,13,eQTL,7,6,1,0.14285714285714285,1.0
+regulation_only,240,13,Wild eQTL,7,6,1,0.14285714285714285,1.0
+regulation_only,240,13,MOFA confirmed,0,0,0,0.0,
+regulation_only,240,13,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,240,14,MOFA,0,0,0,0.0,
+regulation_only,240,14,DIABLO,6,0,6,1.0,
+regulation_only,240,14,eQTL,6,6,0,0.0,1.0
+regulation_only,240,14,Wild eQTL,6,6,0,0.0,1.0
+regulation_only,240,14,MOFA confirmed,0,0,0,0.0,
+regulation_only,240,14,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,240,15,MOFA,0,0,0,0.0,
+regulation_only,240,15,DIABLO,3,0,3,1.0,
+regulation_only,240,15,eQTL,6,6,0,0.0,1.0
+regulation_only,240,15,Wild eQTL,6,6,0,0.0,1.0
+regulation_only,240,15,MOFA confirmed,0,0,0,0.0,
+regulation_only,240,15,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,240,16,MOFA,0,0,0,0.0,
+regulation_only,240,16,DIABLO,5,0,5,1.0,
+regulation_only,240,16,eQTL,6,6,0,0.0,1.0
+regulation_only,240,16,Wild eQTL,6,6,0,0.0,1.0
+regulation_only,240,16,MOFA confirmed,0,0,0,0.0,
+regulation_only,240,16,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,240,17,MOFA,0,0,0,0.0,
+regulation_only,240,17,DIABLO,6,0,6,1.0,
+regulation_only,240,17,eQTL,6,6,0,0.0,1.0
+regulation_only,240,17,Wild eQTL,6,6,0,0.0,1.0
+regulation_only,240,17,MOFA confirmed,0,0,0,0.0,
+regulation_only,240,17,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,240,18,MOFA,0,0,0,0.0,
+regulation_only,240,18,DIABLO,12,0,12,1.0,
+regulation_only,240,18,eQTL,6,6,0,0.0,1.0
+regulation_only,240,18,Wild eQTL,6,6,0,0.0,1.0
+regulation_only,240,18,MOFA confirmed,0,0,0,0.0,
+regulation_only,240,18,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,240,19,MOFA,0,0,0,0.0,
+regulation_only,240,19,DIABLO,6,0,6,1.0,
+regulation_only,240,19,eQTL,7,6,1,0.14285714285714285,1.0
+regulation_only,240,19,Wild eQTL,7,6,1,0.14285714285714285,1.0
+regulation_only,240,19,MOFA confirmed,0,0,0,0.0,
+regulation_only,240,19,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,480,0,MOFA,0,0,0,0.0,
+regulation_only,480,0,DIABLO,6,0,6,1.0,
+regulation_only,480,0,eQTL,6,6,0,0.0,1.0
+regulation_only,480,0,Wild eQTL,6,6,0,0.0,1.0
+regulation_only,480,0,MOFA confirmed,0,0,0,0.0,
+regulation_only,480,0,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,480,1,MOFA,0,0,0,0.0,
+regulation_only,480,1,DIABLO,6,0,6,1.0,
+regulation_only,480,1,eQTL,6,6,0,0.0,1.0
+regulation_only,480,1,Wild eQTL,6,6,0,0.0,1.0
+regulation_only,480,1,MOFA confirmed,0,0,0,0.0,
+regulation_only,480,1,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,480,2,MOFA,0,0,0,0.0,
+regulation_only,480,2,DIABLO,6,0,6,1.0,
+regulation_only,480,2,eQTL,6,6,0,0.0,1.0
+regulation_only,480,2,Wild eQTL,6,6,0,0.0,1.0
+regulation_only,480,2,MOFA confirmed,0,0,0,0.0,
+regulation_only,480,2,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,480,3,MOFA,0,0,0,0.0,
+regulation_only,480,3,DIABLO,6,0,6,1.0,
+regulation_only,480,3,eQTL,6,6,0,0.0,1.0
+regulation_only,480,3,Wild eQTL,7,6,1,0.14285714285714285,1.0
+regulation_only,480,3,MOFA confirmed,0,0,0,0.0,
+regulation_only,480,3,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,480,4,MOFA,0,0,0,0.0,
+regulation_only,480,4,DIABLO,11,0,11,1.0,
+regulation_only,480,4,eQTL,7,6,1,0.14285714285714285,1.0
+regulation_only,480,4,Wild eQTL,7,6,1,0.14285714285714285,1.0
+regulation_only,480,4,MOFA confirmed,0,0,0,0.0,
+regulation_only,480,4,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,480,5,MOFA,0,0,0,0.0,
+regulation_only,480,5,DIABLO,6,0,6,1.0,
+regulation_only,480,5,eQTL,6,6,0,0.0,1.0
+regulation_only,480,5,Wild eQTL,6,6,0,0.0,1.0
+regulation_only,480,5,MOFA confirmed,0,0,0,0.0,
+regulation_only,480,5,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,480,6,MOFA,0,0,0,0.0,
+regulation_only,480,6,DIABLO,3,0,3,1.0,
+regulation_only,480,6,eQTL,7,6,1,0.14285714285714285,1.0
+regulation_only,480,6,Wild eQTL,7,6,1,0.14285714285714285,1.0
+regulation_only,480,6,MOFA confirmed,0,0,0,0.0,
+regulation_only,480,6,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,480,7,MOFA,0,0,0,0.0,
+regulation_only,480,7,DIABLO,12,0,12,1.0,
+regulation_only,480,7,eQTL,6,6,0,0.0,1.0
+regulation_only,480,7,Wild eQTL,7,6,1,0.14285714285714285,1.0
+regulation_only,480,7,MOFA confirmed,0,0,0,0.0,
+regulation_only,480,7,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,480,8,MOFA,5,0,5,1.0,
+regulation_only,480,8,DIABLO,11,0,11,1.0,
+regulation_only,480,8,eQTL,8,6,2,0.25,1.0
+regulation_only,480,8,Wild eQTL,8,6,2,0.25,1.0
+regulation_only,480,8,MOFA confirmed,0,0,0,0.0,
+regulation_only,480,8,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,480,9,MOFA,0,0,0,0.0,
+regulation_only,480,9,DIABLO,6,0,6,1.0,
+regulation_only,480,9,eQTL,6,6,0,0.0,1.0
+regulation_only,480,9,Wild eQTL,6,6,0,0.0,1.0
+regulation_only,480,9,MOFA confirmed,0,0,0,0.0,
+regulation_only,480,9,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,480,10,MOFA,0,0,0,0.0,
+regulation_only,480,10,DIABLO,11,0,11,1.0,
+regulation_only,480,10,eQTL,6,6,0,0.0,1.0
+regulation_only,480,10,Wild eQTL,6,6,0,0.0,1.0
+regulation_only,480,10,MOFA confirmed,0,0,0,0.0,
+regulation_only,480,10,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,480,11,MOFA,0,0,0,0.0,
+regulation_only,480,11,DIABLO,12,0,12,1.0,
+regulation_only,480,11,eQTL,6,6,0,0.0,1.0
+regulation_only,480,11,Wild eQTL,6,6,0,0.0,1.0
+regulation_only,480,11,MOFA confirmed,0,0,0,0.0,
+regulation_only,480,11,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,480,12,MOFA,0,0,0,0.0,
+regulation_only,480,12,DIABLO,6,0,6,1.0,
+regulation_only,480,12,eQTL,6,6,0,0.0,1.0
+regulation_only,480,12,Wild eQTL,6,6,0,0.0,1.0
+regulation_only,480,12,MOFA confirmed,0,0,0,0.0,
+regulation_only,480,12,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,480,13,MOFA,0,0,0,0.0,
+regulation_only,480,13,DIABLO,6,0,6,1.0,
+regulation_only,480,13,eQTL,6,6,0,0.0,1.0
+regulation_only,480,13,Wild eQTL,7,6,1,0.14285714285714285,1.0
+regulation_only,480,13,MOFA confirmed,0,0,0,0.0,
+regulation_only,480,13,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,480,14,MOFA,0,0,0,0.0,
+regulation_only,480,14,DIABLO,6,0,6,1.0,
+regulation_only,480,14,eQTL,6,6,0,0.0,1.0
+regulation_only,480,14,Wild eQTL,6,6,0,0.0,1.0
+regulation_only,480,14,MOFA confirmed,0,0,0,0.0,
+regulation_only,480,14,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,480,15,MOFA,0,0,0,0.0,
+regulation_only,480,15,DIABLO,3,0,3,1.0,
+regulation_only,480,15,eQTL,6,6,0,0.0,1.0
+regulation_only,480,15,Wild eQTL,6,6,0,0.0,1.0
+regulation_only,480,15,MOFA confirmed,0,0,0,0.0,
+regulation_only,480,15,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,480,16,MOFA,0,0,0,0.0,
+regulation_only,480,16,DIABLO,6,0,6,1.0,
+regulation_only,480,16,eQTL,7,6,1,0.14285714285714285,1.0
+regulation_only,480,16,Wild eQTL,7,6,1,0.14285714285714285,1.0
+regulation_only,480,16,MOFA confirmed,0,0,0,0.0,
+regulation_only,480,16,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,480,17,MOFA,0,0,0,0.0,
+regulation_only,480,17,DIABLO,3,0,3,1.0,
+regulation_only,480,17,eQTL,7,6,1,0.14285714285714285,1.0
+regulation_only,480,17,Wild eQTL,7,6,1,0.14285714285714285,1.0
+regulation_only,480,17,MOFA confirmed,0,0,0,0.0,
+regulation_only,480,17,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,480,18,MOFA,0,0,0,0.0,
+regulation_only,480,18,DIABLO,6,0,6,1.0,
+regulation_only,480,18,eQTL,6,6,0,0.0,1.0
+regulation_only,480,18,Wild eQTL,7,6,1,0.14285714285714285,1.0
+regulation_only,480,18,MOFA confirmed,0,0,0,0.0,
+regulation_only,480,18,eQTL replicated,6,6,0,0.0,1.0
+regulation_only,480,19,MOFA,0,0,0,0.0,
+regulation_only,480,19,DIABLO,6,0,6,1.0,
+regulation_only,480,19,eQTL,7,6,1,0.14285714285714285,1.0
+regulation_only,480,19,Wild eQTL,6,6,0,0.0,1.0
+regulation_only,480,19,MOFA confirmed,0,0,0,0.0,
+regulation_only,480,19,eQTL replicated,6,6,0,0.0,1.0

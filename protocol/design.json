@@ -1,0 +1,23 @@
+{
+  "title": "Complementary genotype RNA triangulation in simulated breast cancer",
+  "author": "Vusumuzi Mabasa",
+  "disclosure": "All participants, LD, genomic coordinates, genes and modules are synthetic. No proteins, patient data or real biological enrichment claims.",
+  "scenarios": ["null", "regulation_only", "abundance_only", "convergent", "interaction_only"],
+  "sample_sizes": [240, 480],
+  "replicates": 20,
+  "test_size": 360,
+  "seed_base": 2112000000,
+  "calibration_replicates": 500,
+  "calibration_scenarios": ["null", "abundance_only"],
+  "calibration_seed_base": 2212000000,
+  "mofa": {"factor_grid": [4, 8], "mask_fraction": 0.15, "mofa_iterations": 150, "mofa_starts": [0, 1009]},
+  "mofa_top_RNA_per_factor": 5,
+  "association_alpha": 0.05,
+  "wild_draws": 999,
+  "stability_bootstraps_first_replicate": 5,
+  "markers": "Discovery MOFA factors BH<0.05 nominate top five RNA loadings each. DIABLO nominates nonzero RNA loadings. eQTL nominates omnibus BH<0.05. Interaction findings are separate. No truth labels enter fitting or selection.",
+  "triangulation": "Pairwise/triple intersections at gene and two-gene local locus. Synthetic module nominations use hypergeometric over-representation among selected genes, BH 0.05 across four six-gene modules with the 24-gene background. Candidate truth is objective-specific; shared candidates are assessed against genes with both a genetic expression effect and an abundance or interaction effect. Raw overlaps and Jaccard are descriptive, not independent evidence P values.",
+  "pilot": "Two implementation pilots used seed_base 2111000000 and were excluded from primary banks. Primary and calibration seeds were fixed at distinct bases before evaluation; no effect sizes, thresholds or hyperparameter grids changed after the pilots.",
+  "validation": "Train-only preprocessing and model selection, independent test participants, held-out MOFA association tests, regional eQTL replication, PCA/ridge/clinical references, null calibration, exact statistic replay and bootstrap refits. Effect settings, thresholds and seeds fixed before primary evaluation.",
+  "limitations": "Twenty cohorts per main cell and five within-cohort resamples in fixed fixtures provide exploratory precision. Modules are synthetic and small, LD is not population reference LD, and strong moderate effects do not establish clinical performance. No claim that integration is universally superior."
+}

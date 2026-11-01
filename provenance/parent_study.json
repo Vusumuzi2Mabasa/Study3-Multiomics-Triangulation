@@ -1,0 +1,7 @@
+{
+  "parent_repository": "https://github.com/Vusumuzi2Mabasa/Breast-Cancer-Genotype-RNA-eQTL",
+  "parent_commit": "b8c9d6700df62398ddcbc01126908f028df3c2c8",
+  "inherited_source": "src/integration.py copied unchanged to src/mofa_engine.py; the original copy is retained as provenance/mofa_engine_original.py",
+  "new_work": "New generator and fresh seeds, factor subtype association and replication, conditional stability, independent genotype-RNA signatures, regional inference, gene/locus/module triangulation and calibration. The original study and numerical records were not modified.",
+  "disclosure": "All data and annotations are synthetic. No private PhD proposal is distributed."
+}

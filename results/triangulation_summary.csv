@@ -1,0 +1,241 @@
+scenario,n,level,qtl_reference,metric,replicates,mean,mcse,lower,upper
+abundance_only,240,gene,eQTL,triple_count,20,0.0,0.0,0.0,0.0
+abundance_only,240,gene,Wild eQTL,triple_count,20,0.0,0.0,0.0,0.0
+abundance_only,240,locus,eQTL,triple_count,20,0.0,0.0,0.0,0.0
+abundance_only,240,locus,Wild eQTL,triple_count,20,0.0,0.0,0.0,0.0
+abundance_only,240,module,eQTL,triple_count,20,0.0,0.0,0.0,0.0
+abundance_only,240,module,Wild eQTL,triple_count,20,0.0,0.0,0.0,0.0
+abundance_only,480,gene,eQTL,triple_count,20,0.0,0.0,0.0,0.0
+abundance_only,480,gene,Wild eQTL,triple_count,20,0.0,0.0,0.0,0.0
+abundance_only,480,locus,eQTL,triple_count,20,0.0,0.0,0.0,0.0
+abundance_only,480,locus,Wild eQTL,triple_count,20,0.0,0.0,0.0,0.0
+abundance_only,480,module,eQTL,triple_count,20,0.0,0.0,0.0,0.0
+abundance_only,480,module,Wild eQTL,triple_count,20,0.0,0.0,0.0,0.0
+convergent,240,gene,eQTL,triple_count,20,3.55,0.43210013459357943,2.6456040243825703,4.454395975617429
+convergent,240,gene,Wild eQTL,triple_count,20,3.5,0.42612081311339517,2.6081188880696367,4.391881111930363
+convergent,240,locus,eQTL,triple_count,20,2.45,0.23480114767046692,1.9585555499230356,2.9414444500769648
+convergent,240,locus,Wild eQTL,triple_count,20,2.45,0.23480114767046692,1.9585555499230356,2.9414444500769648
+convergent,240,module,eQTL,triple_count,20,0.65,0.10942433098048311,0.42097224312031256,0.8790277568796875
+convergent,240,module,Wild eQTL,triple_count,20,0.65,0.10942433098048311,0.42097224312031256,0.8790277568796875
+convergent,480,gene,eQTL,triple_count,20,4.15,0.2835396565598986,3.556544678441462,4.743455321558539
+convergent,480,gene,Wild eQTL,triple_count,20,4.15,0.2835396565598986,3.556544678441462,4.743455321558539
+convergent,480,locus,eQTL,triple_count,20,2.85,0.08191780219091253,2.6785440695301586,3.0214559304698416
+convergent,480,locus,Wild eQTL,triple_count,20,2.85,0.08191780219091253,2.6785440695301586,3.0214559304698416
+convergent,480,module,eQTL,triple_count,20,0.3,0.10513149660756935,0.07995724872441184,0.5200427512755881
+convergent,480,module,Wild eQTL,triple_count,20,0.3,0.10513149660756935,0.07995724872441184,0.5200427512755881
+interaction_only,240,gene,eQTL,triple_count,20,0.0,0.0,0.0,0.0
+interaction_only,240,gene,Wild eQTL,triple_count,20,0.0,0.0,0.0,0.0
+interaction_only,240,locus,eQTL,triple_count,20,0.0,0.0,0.0,0.0
+interaction_only,240,locus,Wild eQTL,triple_count,20,0.0,0.0,0.0,0.0
+interaction_only,240,module,eQTL,triple_count,20,0.0,0.0,0.0,0.0
+interaction_only,240,module,Wild eQTL,triple_count,20,0.0,0.0,0.0,0.0
+interaction_only,480,gene,eQTL,triple_count,20,0.05,0.04999999999999999,-0.05465120272041542,0.15465120272041544
+interaction_only,480,gene,Wild eQTL,triple_count,20,0.05,0.04999999999999999,-0.05465120272041542,0.15465120272041544
+interaction_only,480,locus,eQTL,triple_count,20,0.05,0.04999999999999999,-0.05465120272041542,0.15465120272041544
+interaction_only,480,locus,Wild eQTL,triple_count,20,0.05,0.04999999999999999,-0.05465120272041542,0.15465120272041544
+interaction_only,480,module,eQTL,triple_count,20,0.0,0.0,0.0,0.0
+interaction_only,480,module,Wild eQTL,triple_count,20,0.0,0.0,0.0,0.0
+null,240,gene,eQTL,triple_count,20,0.0,0.0,0.0,0.0
+null,240,gene,Wild eQTL,triple_count,20,0.0,0.0,0.0,0.0
+null,240,locus,eQTL,triple_count,20,0.0,0.0,0.0,0.0
+null,240,locus,Wild eQTL,triple_count,20,0.0,0.0,0.0,0.0
+null,240,module,eQTL,triple_count,20,0.0,0.0,0.0,0.0
+null,240,module,Wild eQTL,triple_count,20,0.0,0.0,0.0,0.0
+null,480,gene,eQTL,triple_count,20,0.0,0.0,0.0,0.0
+null,480,gene,Wild eQTL,triple_count,20,0.0,0.0,0.0,0.0
+null,480,locus,eQTL,triple_count,20,0.0,0.0,0.0,0.0
+null,480,locus,Wild eQTL,triple_count,20,0.0,0.0,0.0,0.0
+null,480,module,eQTL,triple_count,20,0.0,0.0,0.0,0.0
+null,480,module,Wild eQTL,triple_count,20,0.0,0.0,0.0,0.0
+regulation_only,240,gene,eQTL,triple_count,20,0.0,0.0,0.0,0.0
+regulation_only,240,gene,Wild eQTL,triple_count,20,0.0,0.0,0.0,0.0
+regulation_only,240,locus,eQTL,triple_count,20,0.0,0.0,0.0,0.0
+regulation_only,240,locus,Wild eQTL,triple_count,20,0.0,0.0,0.0,0.0
+regulation_only,240,module,eQTL,triple_count,20,0.0,0.0,0.0,0.0
+regulation_only,240,module,Wild eQTL,triple_count,20,0.0,0.0,0.0,0.0
+regulation_only,480,gene,eQTL,triple_count,20,0.15,0.15000000000000002,-0.16395360816124635,0.4639536081612463
+regulation_only,480,gene,Wild eQTL,triple_count,20,0.15,0.15000000000000002,-0.16395360816124635,0.4639536081612463
+regulation_only,480,locus,eQTL,triple_count,20,0.15,0.15000000000000002,-0.16395360816124635,0.4639536081612463
+regulation_only,480,locus,Wild eQTL,triple_count,20,0.15,0.15000000000000002,-0.16395360816124635,0.4639536081612463
+regulation_only,480,module,eQTL,triple_count,20,0.0,0.0,0.0,0.0
+regulation_only,480,module,Wild eQTL,triple_count,20,0.0,0.0,0.0,0.0
+abundance_only,240,gene,eQTL,any_triple,20,0.0,0.0,0.0,0.0
+abundance_only,240,gene,Wild eQTL,any_triple,20,0.0,0.0,0.0,0.0
+abundance_only,240,locus,eQTL,any_triple,20,0.0,0.0,0.0,0.0
+abundance_only,240,locus,Wild eQTL,any_triple,20,0.0,0.0,0.0,0.0
+abundance_only,240,module,eQTL,any_triple,20,0.0,0.0,0.0,0.0
+abundance_only,240,module,Wild eQTL,any_triple,20,0.0,0.0,0.0,0.0
+abundance_only,480,gene,eQTL,any_triple,20,0.0,0.0,0.0,0.0
+abundance_only,480,gene,Wild eQTL,any_triple,20,0.0,0.0,0.0,0.0
+abundance_only,480,locus,eQTL,any_triple,20,0.0,0.0,0.0,0.0
+abundance_only,480,locus,Wild eQTL,any_triple,20,0.0,0.0,0.0,0.0
+abundance_only,480,module,eQTL,any_triple,20,0.0,0.0,0.0,0.0
+abundance_only,480,module,Wild eQTL,any_triple,20,0.0,0.0,0.0,0.0
+convergent,240,gene,eQTL,any_triple,20,0.85,0.08191780219091253,0.6785440695301583,1.0214559304698416
+convergent,240,gene,Wild eQTL,any_triple,20,0.85,0.08191780219091253,0.6785440695301583,1.0214559304698416
+convergent,240,locus,eQTL,any_triple,20,0.9,0.06882472016116853,0.7559482051647538,1.0440517948352461
+convergent,240,locus,Wild eQTL,any_triple,20,0.9,0.06882472016116853,0.7559482051647538,1.0440517948352461
+convergent,240,module,eQTL,any_triple,20,0.65,0.10942433098048311,0.42097224312031256,0.8790277568796875
+convergent,240,module,Wild eQTL,any_triple,20,0.65,0.10942433098048311,0.42097224312031256,0.8790277568796875
+convergent,480,gene,eQTL,any_triple,20,1.0,0.0,1.0,1.0
+convergent,480,gene,Wild eQTL,any_triple,20,1.0,0.0,1.0,1.0
+convergent,480,locus,eQTL,any_triple,20,1.0,0.0,1.0,1.0
+convergent,480,locus,Wild eQTL,any_triple,20,1.0,0.0,1.0,1.0
+convergent,480,module,eQTL,any_triple,20,0.3,0.10513149660756935,0.07995724872441184,0.5200427512755881
+convergent,480,module,Wild eQTL,any_triple,20,0.3,0.10513149660756935,0.07995724872441184,0.5200427512755881
+interaction_only,240,gene,eQTL,any_triple,20,0.0,0.0,0.0,0.0
+interaction_only,240,gene,Wild eQTL,any_triple,20,0.0,0.0,0.0,0.0
+interaction_only,240,locus,eQTL,any_triple,20,0.0,0.0,0.0,0.0
+interaction_only,240,locus,Wild eQTL,any_triple,20,0.0,0.0,0.0,0.0
+interaction_only,240,module,eQTL,any_triple,20,0.0,0.0,0.0,0.0
+interaction_only,240,module,Wild eQTL,any_triple,20,0.0,0.0,0.0,0.0
+interaction_only,480,gene,eQTL,any_triple,20,0.05,0.04999999999999999,-0.05465120272041542,0.15465120272041544
+interaction_only,480,gene,Wild eQTL,any_triple,20,0.05,0.04999999999999999,-0.05465120272041542,0.15465120272041544
+interaction_only,480,locus,eQTL,any_triple,20,0.05,0.04999999999999999,-0.05465120272041542,0.15465120272041544
+interaction_only,480,locus,Wild eQTL,any_triple,20,0.05,0.04999999999999999,-0.05465120272041542,0.15465120272041544
+interaction_only,480,module,eQTL,any_triple,20,0.0,0.0,0.0,0.0
+interaction_only,480,module,Wild eQTL,any_triple,20,0.0,0.0,0.0,0.0
+null,240,gene,eQTL,any_triple,20,0.0,0.0,0.0,0.0
+null,240,gene,Wild eQTL,any_triple,20,0.0,0.0,0.0,0.0
+null,240,locus,eQTL,any_triple,20,0.0,0.0,0.0,0.0
+null,240,locus,Wild eQTL,any_triple,20,0.0,0.0,0.0,0.0
+null,240,module,eQTL,any_triple,20,0.0,0.0,0.0,0.0
+null,240,module,Wild eQTL,any_triple,20,0.0,0.0,0.0,0.0
+null,480,gene,eQTL,any_triple,20,0.0,0.0,0.0,0.0
+null,480,gene,Wild eQTL,any_triple,20,0.0,0.0,0.0,0.0
+null,480,locus,eQTL,any_triple,20,0.0,0.0,0.0,0.0
+null,480,locus,Wild eQTL,any_triple,20,0.0,0.0,0.0,0.0
+null,480,module,eQTL,any_triple,20,0.0,0.0,0.0,0.0
+null,480,module,Wild eQTL,any_triple,20,0.0,0.0,0.0,0.0
+regulation_only,240,gene,eQTL,any_triple,20,0.0,0.0,0.0,0.0
+regulation_only,240,gene,Wild eQTL,any_triple,20,0.0,0.0,0.0,0.0
+regulation_only,240,locus,eQTL,any_triple,20,0.0,0.0,0.0,0.0
+regulation_only,240,locus,Wild eQTL,any_triple,20,0.0,0.0,0.0,0.0
+regulation_only,240,module,eQTL,any_triple,20,0.0,0.0,0.0,0.0
+regulation_only,240,module,Wild eQTL,any_triple,20,0.0,0.0,0.0,0.0
+regulation_only,480,gene,eQTL,any_triple,20,0.05,0.04999999999999999,-0.05465120272041542,0.15465120272041544
+regulation_only,480,gene,Wild eQTL,any_triple,20,0.05,0.04999999999999999,-0.05465120272041542,0.15465120272041544
+regulation_only,480,locus,eQTL,any_triple,20,0.05,0.04999999999999999,-0.05465120272041542,0.15465120272041544
+regulation_only,480,locus,Wild eQTL,any_triple,20,0.05,0.04999999999999999,-0.05465120272041542,0.15465120272041544
+regulation_only,480,module,eQTL,any_triple,20,0.0,0.0,0.0,0.0
+regulation_only,480,module,Wild eQTL,any_triple,20,0.0,0.0,0.0,0.0
+abundance_only,240,gene,eQTL,FDP,20,0.0,0.0,0.0,0.0
+abundance_only,240,gene,Wild eQTL,FDP,20,0.0,0.0,0.0,0.0
+abundance_only,240,locus,eQTL,FDP,20,0.0,0.0,0.0,0.0
+abundance_only,240,locus,Wild eQTL,FDP,20,0.0,0.0,0.0,0.0
+abundance_only,240,module,eQTL,FDP,20,0.0,0.0,0.0,0.0
+abundance_only,240,module,Wild eQTL,FDP,20,0.0,0.0,0.0,0.0
+abundance_only,480,gene,eQTL,FDP,20,0.0,0.0,0.0,0.0
+abundance_only,480,gene,Wild eQTL,FDP,20,0.0,0.0,0.0,0.0
+abundance_only,480,locus,eQTL,FDP,20,0.0,0.0,0.0,0.0
+abundance_only,480,locus,Wild eQTL,FDP,20,0.0,0.0,0.0,0.0
+abundance_only,480,module,eQTL,FDP,20,0.0,0.0,0.0,0.0
+abundance_only,480,module,Wild eQTL,FDP,20,0.0,0.0,0.0,0.0
+convergent,240,gene,eQTL,FDP,20,0.0,0.0,0.0,0.0
+convergent,240,gene,Wild eQTL,FDP,20,0.0,0.0,0.0,0.0
+convergent,240,locus,eQTL,FDP,20,0.0,0.0,0.0,0.0
+convergent,240,locus,Wild eQTL,FDP,20,0.0,0.0,0.0,0.0
+convergent,240,module,eQTL,FDP,20,0.0,0.0,0.0,0.0
+convergent,240,module,Wild eQTL,FDP,20,0.0,0.0,0.0,0.0
+convergent,480,gene,eQTL,FDP,20,0.0,0.0,0.0,0.0
+convergent,480,gene,Wild eQTL,FDP,20,0.0,0.0,0.0,0.0
+convergent,480,locus,eQTL,FDP,20,0.0,0.0,0.0,0.0
+convergent,480,locus,Wild eQTL,FDP,20,0.0,0.0,0.0,0.0
+convergent,480,module,eQTL,FDP,20,0.0,0.0,0.0,0.0
+convergent,480,module,Wild eQTL,FDP,20,0.0,0.0,0.0,0.0
+interaction_only,240,gene,eQTL,FDP,20,0.0,0.0,0.0,0.0
+interaction_only,240,gene,Wild eQTL,FDP,20,0.0,0.0,0.0,0.0
+interaction_only,240,locus,eQTL,FDP,20,0.0,0.0,0.0,0.0
+interaction_only,240,locus,Wild eQTL,FDP,20,0.0,0.0,0.0,0.0
+interaction_only,240,module,eQTL,FDP,20,0.0,0.0,0.0,0.0
+interaction_only,240,module,Wild eQTL,FDP,20,0.0,0.0,0.0,0.0
+interaction_only,480,gene,eQTL,FDP,20,0.0,0.0,0.0,0.0
+interaction_only,480,gene,Wild eQTL,FDP,20,0.0,0.0,0.0,0.0
+interaction_only,480,locus,eQTL,FDP,20,0.0,0.0,0.0,0.0
+interaction_only,480,locus,Wild eQTL,FDP,20,0.0,0.0,0.0,0.0
+interaction_only,480,module,eQTL,FDP,20,0.0,0.0,0.0,0.0
+interaction_only,480,module,Wild eQTL,FDP,20,0.0,0.0,0.0,0.0
+null,240,gene,eQTL,FDP,20,0.0,0.0,0.0,0.0
+null,240,gene,Wild eQTL,FDP,20,0.0,0.0,0.0,0.0
+null,240,locus,eQTL,FDP,20,0.0,0.0,0.0,0.0
+null,240,locus,Wild eQTL,FDP,20,0.0,0.0,0.0,0.0
+null,240,module,eQTL,FDP,20,0.0,0.0,0.0,0.0
+null,240,module,Wild eQTL,FDP,20,0.0,0.0,0.0,0.0
+null,480,gene,eQTL,FDP,20,0.0,0.0,0.0,0.0
+null,480,gene,Wild eQTL,FDP,20,0.0,0.0,0.0,0.0
+null,480,locus,eQTL,FDP,20,0.0,0.0,0.0,0.0
+null,480,locus,Wild eQTL,FDP,20,0.0,0.0,0.0,0.0
+null,480,module,eQTL,FDP,20,0.0,0.0,0.0,0.0
+null,480,module,Wild eQTL,FDP,20,0.0,0.0,0.0,0.0
+regulation_only,240,gene,eQTL,FDP,20,0.0,0.0,0.0,0.0
+regulation_only,240,gene,Wild eQTL,FDP,20,0.0,0.0,0.0,0.0
+regulation_only,240,locus,eQTL,FDP,20,0.0,0.0,0.0,0.0
+regulation_only,240,locus,Wild eQTL,FDP,20,0.0,0.0,0.0,0.0
+regulation_only,240,module,eQTL,FDP,20,0.0,0.0,0.0,0.0
+regulation_only,240,module,Wild eQTL,FDP,20,0.0,0.0,0.0,0.0
+regulation_only,480,gene,eQTL,FDP,20,0.05,0.04999999999999999,-0.05465120272041542,0.15465120272041544
+regulation_only,480,gene,Wild eQTL,FDP,20,0.05,0.04999999999999999,-0.05465120272041542,0.15465120272041544
+regulation_only,480,locus,eQTL,FDP,20,0.05,0.04999999999999999,-0.05465120272041542,0.15465120272041544
+regulation_only,480,locus,Wild eQTL,FDP,20,0.05,0.04999999999999999,-0.05465120272041542,0.15465120272041544
+regulation_only,480,module,eQTL,FDP,20,0.0,0.0,0.0,0.0
+regulation_only,480,module,Wild eQTL,FDP,20,0.0,0.0,0.0,0.0
+abundance_only,240,gene,eQTL,sensitivity,0,,,,
+abundance_only,240,gene,Wild eQTL,sensitivity,0,,,,
+abundance_only,240,locus,eQTL,sensitivity,0,,,,
+abundance_only,240,locus,Wild eQTL,sensitivity,0,,,,
+abundance_only,240,module,eQTL,sensitivity,0,,,,
+abundance_only,240,module,Wild eQTL,sensitivity,0,,,,
+abundance_only,480,gene,eQTL,sensitivity,0,,,,
+abundance_only,480,gene,Wild eQTL,sensitivity,0,,,,
+abundance_only,480,locus,eQTL,sensitivity,0,,,,
+abundance_only,480,locus,Wild eQTL,sensitivity,0,,,,
+abundance_only,480,module,eQTL,sensitivity,0,,,,
+abundance_only,480,module,Wild eQTL,sensitivity,0,,,,
+convergent,240,gene,eQTL,sensitivity,20,0.5916666666666668,0.0720166890989299,0.4409340040637619,0.7423993292695716
+convergent,240,gene,Wild eQTL,sensitivity,20,0.5833333333333335,0.0710201355188992,0.43468648134493953,0.7319801853217274
+convergent,240,locus,eQTL,sensitivity,20,0.8166666666666667,0.07826704922348898,0.6528518499743451,0.9804814833589882
+convergent,240,locus,Wild eQTL,sensitivity,20,0.8166666666666667,0.07826704922348898,0.6528518499743451,0.9804814833589882
+convergent,240,module,eQTL,sensitivity,20,0.65,0.10942433098048311,0.42097224312031256,0.8790277568796875
+convergent,240,module,Wild eQTL,sensitivity,20,0.65,0.10942433098048311,0.42097224312031256,0.8790277568796875
+convergent,480,gene,eQTL,sensitivity,20,0.6916666666666668,0.04725660942664978,0.5927574464069103,0.7905758869264232
+convergent,480,gene,Wild eQTL,sensitivity,20,0.6916666666666668,0.04725660942664978,0.5927574464069103,0.7905758869264232
+convergent,480,locus,eQTL,sensitivity,20,0.95,0.02730593406363751,0.8928480231767194,1.0071519768232804
+convergent,480,locus,Wild eQTL,sensitivity,20,0.95,0.02730593406363751,0.8928480231767194,1.0071519768232804
+convergent,480,module,eQTL,sensitivity,20,0.3,0.10513149660756935,0.07995724872441184,0.5200427512755881
+convergent,480,module,Wild eQTL,sensitivity,20,0.3,0.10513149660756935,0.07995724872441184,0.5200427512755881
+interaction_only,240,gene,eQTL,sensitivity,20,0.0,0.0,0.0,0.0
+interaction_only,240,gene,Wild eQTL,sensitivity,20,0.0,0.0,0.0,0.0
+interaction_only,240,locus,eQTL,sensitivity,20,0.0,0.0,0.0,0.0
+interaction_only,240,locus,Wild eQTL,sensitivity,20,0.0,0.0,0.0,0.0
+interaction_only,240,module,eQTL,sensitivity,20,0.0,0.0,0.0,0.0
+interaction_only,240,module,Wild eQTL,sensitivity,20,0.0,0.0,0.0,0.0
+interaction_only,480,gene,eQTL,sensitivity,20,0.008333333333333333,0.008333333333333333,-0.009108533786735906,0.02577520045340257
+interaction_only,480,gene,Wild eQTL,sensitivity,20,0.008333333333333333,0.008333333333333333,-0.009108533786735906,0.02577520045340257
+interaction_only,480,locus,eQTL,sensitivity,20,0.016666666666666666,0.016666666666666666,-0.01821706757347181,0.05155040090680514
+interaction_only,480,locus,Wild eQTL,sensitivity,20,0.016666666666666666,0.016666666666666666,-0.01821706757347181,0.05155040090680514
+interaction_only,480,module,eQTL,sensitivity,20,0.0,0.0,0.0,0.0
+interaction_only,480,module,Wild eQTL,sensitivity,20,0.0,0.0,0.0,0.0
+null,240,gene,eQTL,sensitivity,0,,,,
+null,240,gene,Wild eQTL,sensitivity,0,,,,
+null,240,locus,eQTL,sensitivity,0,,,,
+null,240,locus,Wild eQTL,sensitivity,0,,,,
+null,240,module,eQTL,sensitivity,0,,,,
+null,240,module,Wild eQTL,sensitivity,0,,,,
+null,480,gene,eQTL,sensitivity,0,,,,
+null,480,gene,Wild eQTL,sensitivity,0,,,,
+null,480,locus,eQTL,sensitivity,0,,,,
+null,480,locus,Wild eQTL,sensitivity,0,,,,
+null,480,module,eQTL,sensitivity,0,,,,
+null,480,module,Wild eQTL,sensitivity,0,,,,
+regulation_only,240,gene,eQTL,sensitivity,0,,,,
+regulation_only,240,gene,Wild eQTL,sensitivity,0,,,,
+regulation_only,240,locus,eQTL,sensitivity,0,,,,
+regulation_only,240,locus,Wild eQTL,sensitivity,0,,,,
+regulation_only,240,module,eQTL,sensitivity,0,,,,
+regulation_only,240,module,Wild eQTL,sensitivity,0,,,,
+regulation_only,480,gene,eQTL,sensitivity,0,,,,
+regulation_only,480,gene,Wild eQTL,sensitivity,0,,,,
+regulation_only,480,locus,eQTL,sensitivity,0,,,,
+regulation_only,480,locus,Wild eQTL,sensitivity,0,,,,
+regulation_only,480,module,eQTL,sensitivity,0,,,,
+regulation_only,480,module,Wild eQTL,sensitivity,0,,,,

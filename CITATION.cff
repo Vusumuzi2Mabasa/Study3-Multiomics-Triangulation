@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this simulation and its repository commit when reusing the workflow."
+title: "Triangulation of Genotype and RNA Signals in Simulated Breast Cancer"
+authors:
+  - family-names: "Mabasa"
+    given-names: "Vusumuzi"
+type: software
+version: "1.0.0"
+date-released: "2026-11-01"
+license: MIT
+url: "https://github.com/Vusumuzi2Mabasa/Study3-Multiomics-Triangulation"

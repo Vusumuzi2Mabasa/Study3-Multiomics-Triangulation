@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "training_test_pairs": 200,
+  "independent_test_participants_per_pair": 360,
+  "fresh_calibration_cohorts": 2000,
+  "distinct_cohort_seeds": 2400,
+  "MOFA_final_converged": 200,
+  "DIABLO_converged": 200,
+  "original_iteration_budget_records_preserved": 200,
+  "scientific_source_locks_verified": true,
+  "probability_replays": 200,
+  "DIABLO_balanced_accuracy_replays": 200,
+  "disclosure": "Every measurement, gene, coordinate and module is synthetic; no causal or clinical validation claim."
+}
